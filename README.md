@@ -30,7 +30,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Jc2gZyT1pkU"><img width="140px" src="https://i.ytimg.com/vi/Jc2gZyT1pkU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=_i4yLHrXRdg"><img width="140px" src="https://i.ytimg.com/vi/_i4yLHrXRdg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_i4yLHrXRdg">odoo 手把手教學 - activity</a><br/>Oct 27, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=Jc2gZyT1pkU"><img width="140px" src="https://i.ytimg.com/vi/Jc2gZyT1pkU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Jc2gZyT1pkU">linux 教學 - variety - 自動更換桌布</a><br/>Oct 25, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PVMRLJaTNSY"><img width="140px" src="https://i.ytimg.com/vi/PVMRLJaTNSY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PVMRLJaTNSY">linux 教學 - arandr - 設定多螢幕工具</a><br/>Oct 25, 2020</td></tr>
@@ -38,8 +40,6 @@
 <td><a href="https://www.youtube.com/watch?v=u8v0hzEXwpc">odoo 手把手教學 - sequence</a><br/>Oct 24, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=uvQTHsKu3Ic"><img width="140px" src="https://i.ytimg.com/vi/uvQTHsKu3Ic/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uvQTHsKu3Ic">odoo 手把手教學 - scheduler</a><br/>Oct 20, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=_i4yLHrXRdg"><img width="140px" src="https://i.ytimg.com/vi/_i4yLHrXRdg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_i4yLHrXRdg">odoo 手把手教學 - activity</a><br/>Oct 19, 2020</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
