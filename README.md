@@ -30,16 +30,16 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=jsMTVe12vRY"><img width="140px" src="https://i.ytimg.com/vi/jsMTVe12vRY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=qOJdGSxHj6Q"><img width="140px" src="https://i.ytimg.com/vi/qOJdGSxHj6Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qOJdGSxHj6Q">linux 教學 - speedtest-cli  - 使用 command line 測試網路速度</a><br/>Nov 11, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=E9F2kjiWDv8"><img width="140px" src="https://i.ytimg.com/vi/E9F2kjiWDv8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=E9F2kjiWDv8">linux 教學 - open vpn - 建立VPN</a><br/>Nov 11, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=jsMTVe12vRY"><img width="140px" src="https://i.ytimg.com/vi/jsMTVe12vRY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jsMTVe12vRY">odoo 手把手教學 - AbstractModel</a><br/>Nov 8, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Gc-wRnAhbKs"><img width="140px" src="https://i.ytimg.com/vi/Gc-wRnAhbKs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Gc-wRnAhbKs">odoo 手把手教學 - TransientModel - Wizard</a><br/>Nov 5, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=5k_TYBNs_uc"><img width="140px" src="https://i.ytimg.com/vi/5k_TYBNs_uc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5k_TYBNs_uc">odoo 手把手教學 - 實作 config settings</a><br/>Nov 5, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Jc2gZyT1pkU"><img width="140px" src="https://i.ytimg.com/vi/Jc2gZyT1pkU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Jc2gZyT1pkU">linux 教學 - variety - 自動更換桌布</a><br/>Nov 2, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=PVMRLJaTNSY"><img width="140px" src="https://i.ytimg.com/vi/PVMRLJaTNSY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PVMRLJaTNSY">linux 教學 - arandr - 設定多螢幕工具</a><br/>Oct 30, 2020</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
