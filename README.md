@@ -30,7 +30,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=CVJpYszrvXc"><img width="140px" src="https://i.ytimg.com/vi/CVJpYszrvXc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=kg2PyZr7l5k"><img width="140px" src="https://i.ytimg.com/vi/kg2PyZr7l5k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kg2PyZr7l5k">git 指令教學 - git autostash 參數說明</a><br/>Nov 22, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=CVJpYszrvXc"><img width="140px" src="https://i.ytimg.com/vi/CVJpYszrvXc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CVJpYszrvXc">linux 教學 - 如何在 ubuntu 啟用 NFS Server</a><br/>Nov 21, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=s7Pgl3kUaeY"><img width="140px" src="https://i.ytimg.com/vi/s7Pgl3kUaeY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=s7Pgl3kUaeY">linux 教學 - 設定 VirtualBox - 常見問題</a><br/>Nov 21, 2020</td></tr>
@@ -38,8 +40,6 @@
 <td><a href="https://www.youtube.com/watch?v=Ha0YNFm6KzI">odoo 手把手教學 -  datetime 教學</a><br/>Nov 21, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=CN065MNHtMY"><img width="140px" src="https://i.ytimg.com/vi/CN065MNHtMY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CN065MNHtMY">git 指令教學 - git stash</a><br/>Nov 19, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=E9F2kjiWDv8"><img width="140px" src="https://i.ytimg.com/vi/E9F2kjiWDv8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=E9F2kjiWDv8">linux 教學 - open vpn - 建立VPN</a><br/>Nov 16, 2020</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
