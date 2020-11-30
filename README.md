@@ -30,7 +30,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=mWg1sIUcepQ"><img width="140px" src="https://i.ytimg.com/vi/mWg1sIUcepQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=s7Pgl3kUaeY"><img width="140px" src="https://i.ytimg.com/vi/s7Pgl3kUaeY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=s7Pgl3kUaeY">linux 教學 - 設定 VirtualBox - 常見問題</a><br/>Nov 29, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=mWg1sIUcepQ"><img width="140px" src="https://i.ytimg.com/vi/mWg1sIUcepQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mWg1sIUcepQ">python 教學 - 什麼是 Mixin</a><br/>Nov 29, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2THTpLmUec"><img width="140px" src="https://i.ytimg.com/vi/o2THTpLmUec/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o2THTpLmUec">odoo 手把手教學 -  實作 scan barcode</a><br/>Nov 29, 2020</td></tr>
@@ -38,8 +40,6 @@
 <td><a href="https://www.youtube.com/watch?v=CVJpYszrvXc">linux 教學 - 如何在 ubuntu 啟用 NFS Server</a><br/>Nov 26, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Ha0YNFm6KzI"><img width="140px" src="https://i.ytimg.com/vi/Ha0YNFm6KzI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ha0YNFm6KzI">odoo 手把手教學 -  datetime 教學</a><br/>Nov 24, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=kg2PyZr7l5k"><img width="140px" src="https://i.ytimg.com/vi/kg2PyZr7l5k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kg2PyZr7l5k">git 指令教學 - git autostash 參數說明</a><br/>Nov 22, 2020</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
