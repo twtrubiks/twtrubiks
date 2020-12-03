@@ -30,10 +30,10 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=s7Pgl3kUaeY"><img width="140px" src="https://i.ytimg.com/vi/s7Pgl3kUaeY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=mWg1sIUcepQ"><img width="140px" src="https://i.ytimg.com/vi/mWg1sIUcepQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mWg1sIUcepQ">python 教學 - 什麼是 Mixin</a><br/>Dec 2, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=s7Pgl3kUaeY"><img width="140px" src="https://i.ytimg.com/vi/s7Pgl3kUaeY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=s7Pgl3kUaeY">linux 教學 - 設定 VirtualBox - 常見問題</a><br/>Nov 29, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=mWg1sIUcepQ"><img width="140px" src="https://i.ytimg.com/vi/mWg1sIUcepQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mWg1sIUcepQ">python 教學 - 什麼是 Mixin</a><br/>Nov 29, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2THTpLmUec"><img width="140px" src="https://i.ytimg.com/vi/o2THTpLmUec/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o2THTpLmUec">odoo 手把手教學 -  實作 scan barcode</a><br/>Nov 29, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=CVJpYszrvXc"><img width="140px" src="https://i.ytimg.com/vi/CVJpYszrvXc/mqdefault.jpg"></a></td>
