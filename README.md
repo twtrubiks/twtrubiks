@@ -30,12 +30,12 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=SER-ZVDnwGw"><img width="140px" src="https://i.ytimg.com/vi/SER-ZVDnwGw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=AzGnFX4pHWI"><img width="140px" src="https://i.ytimg.com/vi/AzGnFX4pHWI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AzGnFX4pHWI">odoo 手把手教學 - shell orm  - search_read</a><br/>Dec 15, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=SER-ZVDnwGw"><img width="140px" src="https://i.ytimg.com/vi/SER-ZVDnwGw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SER-ZVDnwGw">odoo 手把手教學 - 實作 hierarchy - part2</a><br/>Dec 12, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=G-W_F9Sblj4"><img width="140px" src="https://i.ytimg.com/vi/G-W_F9Sblj4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=G-W_F9Sblj4">python 教學 - 什麼是 abstractmethod - PEP 3119</a><br/>Dec 11, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=AzGnFX4pHWI"><img width="140px" src="https://i.ytimg.com/vi/AzGnFX4pHWI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AzGnFX4pHWI">odoo 手把手教學 - shell orm  - search_read</a><br/>Dec 11, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=O_ch9553VQ0"><img width="140px" src="https://i.ytimg.com/vi/O_ch9553VQ0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=O_ch9553VQ0">odoo 手把手教學 - 實作 hierarchy - part1</a><br/>Dec 8, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2THTpLmUec"><img width="140px" src="https://i.ytimg.com/vi/o2THTpLmUec/mqdefault.jpg"></a></td>
