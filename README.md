@@ -30,16 +30,16 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=__RcLpcRF2g"><img width="140px" src="https://i.ytimg.com/vi/__RcLpcRF2g/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=zb5fSEtEo_g"><img width="140px" src="https://i.ytimg.com/vi/zb5fSEtEo_g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zb5fSEtEo_g">)odoo 手把手教學 - widget 介紹 handle 和 many2onebutton - part11</a><br/>Jan 1, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=YltcAu9OZhc"><img width="140px" src="https://i.ytimg.com/vi/YltcAu9OZhc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YltcAu9OZhc">odoo 手把手教學 - 同一個 model 使用不同的 view_ids - part10</a><br/>Jan 1, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=__RcLpcRF2g"><img width="140px" src="https://i.ytimg.com/vi/__RcLpcRF2g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=__RcLpcRF2g">odoo14 手把手教學 - Developer API Keys - python xmlrpc</a><br/>Dec 30, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KFBaTB_XRJM"><img width="140px" src="https://i.ytimg.com/vi/KFBaTB_XRJM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KFBaTB_XRJM">odoo 手把手教學 - 如何使用 python xmlrpc 連接 odoo - part2</a><br/>Dec 27, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=MuMBF8a9ko8"><img width="140px" src="https://i.ytimg.com/vi/MuMBF8a9ko8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MuMBF8a9ko8">odoo 手把手教學 - 如何使用 python xmlrpc 連接 odoo - part1</a><br/>Dec 23, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=G-W_F9Sblj4"><img width="140px" src="https://i.ytimg.com/vi/G-W_F9Sblj4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=G-W_F9Sblj4">python 教學 - 什麼是 abstractmethod - PEP 3119</a><br/>Dec 19, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=AzGnFX4pHWI"><img width="140px" src="https://i.ytimg.com/vi/AzGnFX4pHWI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AzGnFX4pHWI">odoo 手把手教學 - shell orm  - search_read</a><br/>Dec 15, 2020</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
