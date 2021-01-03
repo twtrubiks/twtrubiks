@@ -30,10 +30,10 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=zb5fSEtEo_g"><img width="140px" src="https://i.ytimg.com/vi/zb5fSEtEo_g/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=YltcAu9OZhc"><img width="140px" src="https://i.ytimg.com/vi/YltcAu9OZhc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YltcAu9OZhc">odoo 手把手教學 - 同一個 model 使用不同的 view_ids - part10</a><br/>Jan 2, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=zb5fSEtEo_g"><img width="140px" src="https://i.ytimg.com/vi/zb5fSEtEo_g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zb5fSEtEo_g">)odoo 手把手教學 - widget 介紹 handle 和 many2onebutton - part11</a><br/>Jan 1, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=YltcAu9OZhc"><img width="140px" src="https://i.ytimg.com/vi/YltcAu9OZhc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YltcAu9OZhc">odoo 手把手教學 - 同一個 model 使用不同的 view_ids - part10</a><br/>Jan 1, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=__RcLpcRF2g"><img width="140px" src="https://i.ytimg.com/vi/__RcLpcRF2g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=__RcLpcRF2g">odoo14 手把手教學 - Developer API Keys - python xmlrpc</a><br/>Dec 30, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KFBaTB_XRJM"><img width="140px" src="https://i.ytimg.com/vi/KFBaTB_XRJM/mqdefault.jpg"></a></td>
