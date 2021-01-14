@@ -30,7 +30,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=RR9ycgky444"><img width="140px" src="https://i.ytimg.com/vi/RR9ycgky444/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=_gGmwgk8250"><img width="140px" src="https://i.ytimg.com/vi/_gGmwgk8250/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_gGmwgk8250">odoo 手把手教學 -  Translating 翻譯教學 i18n - part1</a><br/>Jan 14, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=RR9ycgky444"><img width="140px" src="https://i.ytimg.com/vi/RR9ycgky444/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RR9ycgky444">odoo 手把手教學 - view 搭配 active_test context - part13</a><br/>Jan 12, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Rh-rmXIHTZo"><img width="140px" src="https://i.ytimg.com/vi/Rh-rmXIHTZo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Rh-rmXIHTZo">odoo 手把手教學 - view 搭配 domain - part14</a><br/>Jan 12, 2021</td></tr>
@@ -38,8 +40,6 @@
 <td><a href="https://www.youtube.com/watch?v=c-nzbAuaH9I">odoo 手把手教學 - odoo 手把手教學 - view 搭配 context - part12</a><br/>Jan 9, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=zb5fSEtEo_g"><img width="140px" src="https://i.ytimg.com/vi/zb5fSEtEo_g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zb5fSEtEo_g">odoo 手把手教學 - widget 介紹 handle 和 many2onebutton - part11</a><br/>Jan 5, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=YltcAu9OZhc"><img width="140px" src="https://i.ytimg.com/vi/YltcAu9OZhc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YltcAu9OZhc">odoo 手把手教學 - 同一個 model 使用不同的 view_ids - part10</a><br/>Jan 2, 2021</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
