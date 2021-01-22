@@ -31,7 +31,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Ka7ucdDnfHA"><img width="140px" src="https://i.ytimg.com/vi/Ka7ucdDnfHA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ka7ucdDnfHA">odoo 手把手教學 -  Translating 翻譯教學 i18n - part2</a><br/>Jan 18, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=Ka7ucdDnfHA">odoo 手把手教學 -  Translating 翻譯教學 i18n - part2</a><br/>Jan 21, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=_gGmwgk8250"><img width="140px" src="https://i.ytimg.com/vi/_gGmwgk8250/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_gGmwgk8250">odoo 手把手教學 -  Translating 翻譯教學 i18n - part1</a><br/>Jan 17, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Rh-rmXIHTZo"><img width="140px" src="https://i.ytimg.com/vi/Rh-rmXIHTZo/mqdefault.jpg"></a></td>
