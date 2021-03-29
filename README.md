@@ -30,12 +30,12 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=kXB__qIz5gY"><img width="140px" src="https://i.ytimg.com/vi/kXB__qIz5gY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=t4FbMd4n4rE"><img width="140px" src="https://i.ytimg.com/vi/t4FbMd4n4rE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=t4FbMd4n4rE">python 教學 - 什麼是 suppress</a><br/>Mar 28, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=kXB__qIz5gY"><img width="140px" src="https://i.ytimg.com/vi/kXB__qIz5gY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kXB__qIz5gY">python 教學 - PEP 484 Type Hints 介紹</a><br/>Mar 28, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OEMPp9i1kYc"><img width="140px" src="https://i.ytimg.com/vi/OEMPp9i1kYc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OEMPp9i1kYc">python 教學 - 什麼是 methodcaller</a><br/>Mar 28, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=t4FbMd4n4rE"><img width="140px" src="https://i.ytimg.com/vi/t4FbMd4n4rE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=t4FbMd4n4rE">python 教學 - 什麼是 suppress</a><br/>Mar 28, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=FDvl1eBIC_Q"><img width="140px" src="https://i.ytimg.com/vi/FDvl1eBIC_Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FDvl1eBIC_Q">odoo 觀念 - recruitment_website_form 介紹</a><br/>Mar 6, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=g4vywRLklE0"><img width="140px" src="https://i.ytimg.com/vi/g4vywRLklE0/mqdefault.jpg"></a></td>
