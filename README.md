@@ -30,10 +30,10 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=FCmRNUSkh10"><img width="140px" src="https://i.ytimg.com/vi/FCmRNUSkh10/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=2ZmfH3wBHm8"><img width="140px" src="https://i.ytimg.com/vi/2ZmfH3wBHm8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2ZmfH3wBHm8">odoo 觀念 - 實作 init hook</a><br/>Apr 21, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=FCmRNUSkh10"><img width="140px" src="https://i.ytimg.com/vi/FCmRNUSkh10/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FCmRNUSkh10">odoo 觀念 - implied_group 用法說明</a><br/>Apr 17, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=2ZmfH3wBHm8"><img width="140px" src="https://i.ytimg.com/vi/2ZmfH3wBHm8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2ZmfH3wBHm8">odoo 觀念 - 實作 init hook</a><br/>Apr 17, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=LPigYLtxeoA"><img width="140px" src="https://i.ytimg.com/vi/LPigYLtxeoA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LPigYLtxeoA">odoo 觀念 - 使用 SQL VIEW 定義 model</a><br/>Apr 14, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Yncbx95YT1Q"><img width="140px" src="https://i.ytimg.com/vi/Yncbx95YT1Q/mqdefault.jpg"></a></td>
