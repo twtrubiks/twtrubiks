@@ -30,7 +30,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=2ZmfH3wBHm8"><img width="140px" src="https://i.ytimg.com/vi/2ZmfH3wBHm8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=kZG-CKQ2M7A"><img width="140px" src="https://i.ytimg.com/vi/kZG-CKQ2M7A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kZG-CKQ2M7A">odoo 教學 - 如何繼承 inherit controller</a><br/>May 2, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=2ZmfH3wBHm8"><img width="140px" src="https://i.ytimg.com/vi/2ZmfH3wBHm8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2ZmfH3wBHm8">odoo 觀念 - 實作 init hook</a><br/>Apr 21, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=FCmRNUSkh10"><img width="140px" src="https://i.ytimg.com/vi/FCmRNUSkh10/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FCmRNUSkh10">odoo 觀念 - implied_group 用法說明</a><br/>Apr 17, 2021</td></tr>
@@ -38,8 +40,6 @@
 <td><a href="https://www.youtube.com/watch?v=LPigYLtxeoA">odoo 觀念 - 使用 SQL VIEW 定義 model</a><br/>Apr 14, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Yncbx95YT1Q"><img width="140px" src="https://i.ytimg.com/vi/Yncbx95YT1Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Yncbx95YT1Q">odoo 觀念 - 建議使用繼承 addons 的方式修改 odoo</a><br/>Apr 10, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=kXB__qIz5gY"><img width="140px" src="https://i.ytimg.com/vi/kXB__qIz5gY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kXB__qIz5gY">python 教學 - PEP 484 Type Hints 介紹</a><br/>Apr 4, 2021</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
