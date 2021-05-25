@@ -32,14 +32,14 @@
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=u8u0eRzY8kg"><img width="140px" src="https://i.ytimg.com/vi/u8u0eRzY8kg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u8u0eRzY8kg">odoo 觀念 - multi company ( company_dependent=True )</a><br/>May 23, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=nfiBgXgYkYg"><img width="140px" src="https://i.ytimg.com/vi/nfiBgXgYkYg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nfiBgXgYkYg">odoo 手把手教學 - testing</a><br/>May 23, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=wb9bONgnFn4"><img width="140px" src="https://i.ytimg.com/vi/wb9bONgnFn4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wb9bONgnFn4">Docker 中的 JSON File logging driver(container log)</a><br/>May 10, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=TpEw3TQiZ_M"><img width="140px" src="https://i.ytimg.com/vi/TpEw3TQiZ_M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TpEw3TQiZ_M">odoo 教學 - fields_view_get 介紹</a><br/>May 6, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=kZG-CKQ2M7A"><img width="140px" src="https://i.ytimg.com/vi/kZG-CKQ2M7A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kZG-CKQ2M7A">odoo 教學 - 如何繼承 inherit controller</a><br/>May 2, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=2ZmfH3wBHm8"><img width="140px" src="https://i.ytimg.com/vi/2ZmfH3wBHm8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2ZmfH3wBHm8">odoo 觀念 - 實作 init hook</a><br/>Apr 21, 2021</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
