@@ -32,14 +32,14 @@
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=ALq6CcADygs"><img width="140px" src="https://i.ytimg.com/vi/ALq6CcADygs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ALq6CcADygs">odoo ORM 教學 - read_group 說明</a><br/>Jun 6, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=2EJNTLldHOA"><img width="140px" src="https://i.ytimg.com/vi/2EJNTLldHOA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2EJNTLldHOA">odoo14 教學 - image mixin</a><br/>Jun 6, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=hfOLmoIfO9E"><img width="140px" src="https://i.ytimg.com/vi/hfOLmoIfO9E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hfOLmoIfO9E">odoo 觀念 - 使用 RAW SQL 說明</a><br/>Jun 3, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=AXi7c4EQuYE"><img width="140px" src="https://i.ytimg.com/vi/AXi7c4EQuYE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AXi7c4EQuYE">odoo 觀念 - orm cache 說明</a><br/>May 30, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=nfiBgXgYkYg"><img width="140px" src="https://i.ytimg.com/vi/nfiBgXgYkYg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nfiBgXgYkYg">odoo 手把手教學 - testing</a><br/>May 27, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=u8u0eRzY8kg"><img width="140px" src="https://i.ytimg.com/vi/u8u0eRzY8kg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=u8u0eRzY8kg">odoo 觀念 - multi company ( company_dependent=True )</a><br/>May 23, 2021</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
