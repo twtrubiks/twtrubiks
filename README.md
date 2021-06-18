@@ -30,10 +30,10 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=tJdw6IEb8UQ"><img width="140px" src="https://i.ytimg.com/vi/tJdw6IEb8UQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JtcSnbHNjAU"><img width="140px" src="https://i.ytimg.com/vi/JtcSnbHNjAU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JtcSnbHNjAU">odoo 教學 - model _rec_name</a><br/>Jun 17, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=tJdw6IEb8UQ"><img width="140px" src="https://i.ytimg.com/vi/tJdw6IEb8UQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tJdw6IEb8UQ">odoo 教學 - tree decoration</a><br/>Jun 14, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=JtcSnbHNjAU"><img width="140px" src="https://i.ytimg.com/vi/JtcSnbHNjAU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JtcSnbHNjAU">odoo 教學 - model _rec_name</a><br/>Jun 13, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=2EJNTLldHOA"><img width="140px" src="https://i.ytimg.com/vi/2EJNTLldHOA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2EJNTLldHOA">odoo14 教學 - image mixin</a><br/>Jun 9, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ALq6CcADygs"><img width="140px" src="https://i.ytimg.com/vi/ALq6CcADygs/mqdefault.jpg"></a></td>
