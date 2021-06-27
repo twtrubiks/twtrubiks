@@ -30,7 +30,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JtcSnbHNjAU"><img width="140px" src="https://i.ytimg.com/vi/JtcSnbHNjAU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=VDnIFb7e7wM"><img width="140px" src="https://i.ytimg.com/vi/VDnIFb7e7wM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VDnIFb7e7wM">odoo 教學 - copy override 說明</a><br/>Jun 27, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=JtcSnbHNjAU"><img width="140px" src="https://i.ytimg.com/vi/JtcSnbHNjAU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JtcSnbHNjAU">odoo 教學 - model _rec_name</a><br/>Jun 17, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tJdw6IEb8UQ"><img width="140px" src="https://i.ytimg.com/vi/tJdw6IEb8UQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tJdw6IEb8UQ">odoo 教學 - tree decoration</a><br/>Jun 14, 2021</td></tr>
@@ -38,8 +40,6 @@
 <td><a href="https://www.youtube.com/watch?v=2EJNTLldHOA">odoo14 教學 - image mixin</a><br/>Jun 9, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ALq6CcADygs"><img width="140px" src="https://i.ytimg.com/vi/ALq6CcADygs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ALq6CcADygs">odoo ORM 教學 - read_group 說明</a><br/>Jun 6, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=hfOLmoIfO9E"><img width="140px" src="https://i.ytimg.com/vi/hfOLmoIfO9E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hfOLmoIfO9E">odoo 觀念 - 使用 RAW SQL 說明</a><br/>Jun 3, 2021</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
