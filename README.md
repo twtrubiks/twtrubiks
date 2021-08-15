@@ -36,10 +36,10 @@
 <td><a href="https://www.youtube.com/watch?v=fsZK1KRgnF0">odoo 教學 - Smart Button 說明</a><br/>Aug 5, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=l-bFOqTYgTA"><img width="140px" src="https://i.ytimg.com/vi/l-bFOqTYgTA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=l-bFOqTYgTA">odoo 教學 - move position 說明</a><br/>Aug 1, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=tZ6_2Q3r3Ok"><img width="140px" src="https://i.ytimg.com/vi/tZ6_2Q3r3Ok/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tZ6_2Q3r3Ok">odoo14 教學 - Search Panel 教學</a><br/>Aug 1, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=AD8X11lq3gQ"><img width="140px" src="https://i.ytimg.com/vi/AD8X11lq3gQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AD8X11lq3gQ">github CLI PR 教學 - patr2</a><br/>Jul 7, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=bXOdD-bKfkA"><img width="140px" src="https://i.ytimg.com/vi/bXOdD-bKfkA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bXOdD-bKfkA">github PR (Pull Request) 教學 - part1</a><br/>Jul 4, 2021</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
