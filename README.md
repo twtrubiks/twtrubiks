@@ -30,12 +30,12 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=OTh5R2LrwJE"><img width="140px" src="https://i.ytimg.com/vi/OTh5R2LrwJE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JL_bSOGDR-k"><img width="140px" src="https://i.ytimg.com/vi/JL_bSOGDR-k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JL_bSOGDR-k">git 指令教學 - git switch 和 git restore 說明</a><br/>Aug 30, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=OTh5R2LrwJE"><img width="140px" src="https://i.ytimg.com/vi/OTh5R2LrwJE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OTh5R2LrwJE">odoo 教學 - PostgreSQL ondelete cascade 說明</a><br/>Aug 25, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=GdPKllI7quI"><img width="140px" src="https://i.ytimg.com/vi/GdPKllI7quI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GdPKllI7quI">odoo 教學 - options create_edit 說明</a><br/>Aug 22, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=JL_bSOGDR-k"><img width="140px" src="https://i.ytimg.com/vi/JL_bSOGDR-k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JL_bSOGDR-k">git 指令教學 - git switch 和 git restore 說明</a><br/>Aug 22, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tZ6_2Q3r3Ok"><img width="140px" src="https://i.ytimg.com/vi/tZ6_2Q3r3Ok/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tZ6_2Q3r3Ok">odoo14 教學 - Search Panel 教學</a><br/>Aug 16, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=thhdGK9oebg"><img width="140px" src="https://i.ytimg.com/vi/thhdGK9oebg/mqdefault.jpg"></a></td>
