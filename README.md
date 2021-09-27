@@ -30,10 +30,10 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=FE9lvN62aTo"><img width="140px" src="https://i.ytimg.com/vi/FE9lvN62aTo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=i_hG4s_YJN0"><img width="140px" src="https://i.ytimg.com/vi/i_hG4s_YJN0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=i_hG4s_YJN0">odoo 教學 - view parent 說明</a><br/>Sep 26, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=FE9lvN62aTo"><img width="140px" src="https://i.ytimg.com/vi/FE9lvN62aTo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FE9lvN62aTo">odoo 教學 - QWeb</a><br/>Sep 20, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=i_hG4s_YJN0"><img width="140px" src="https://i.ytimg.com/vi/i_hG4s_YJN0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=i_hG4s_YJN0">odoo 教學 - view parent 說明</a><br/>Sep 18, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OOlPZETkYKw"><img width="140px" src="https://i.ytimg.com/vi/OOlPZETkYKw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OOlPZETkYKw">odoo 14 教學 - auto_join 說明</a><br/>Sep 15, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=sZWFGf23gWc"><img width="140px" src="https://i.ytimg.com/vi/sZWFGf23gWc/mqdefault.jpg"></a></td>
