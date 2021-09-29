@@ -34,12 +34,12 @@
 <td><a href="https://www.youtube.com/watch?v=i_hG4s_YJN0">odoo 教學 - view parent 說明</a><br/>Sep 26, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=FE9lvN62aTo"><img width="140px" src="https://i.ytimg.com/vi/FE9lvN62aTo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FE9lvN62aTo">odoo 教學 - QWeb</a><br/>Sep 20, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ZUNRoWxVWAE"><img width="140px" src="https://i.ytimg.com/vi/ZUNRoWxVWAE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZUNRoWxVWAE">odoo 手把手教學 - doamin 搭配 fields 的三種用法</a><br/>Sep 18, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OOlPZETkYKw"><img width="140px" src="https://i.ytimg.com/vi/OOlPZETkYKw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OOlPZETkYKw">odoo 14 教學 - auto_join 說明</a><br/>Sep 15, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=sZWFGf23gWc"><img width="140px" src="https://i.ytimg.com/vi/sZWFGf23gWc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sZWFGf23gWc">odoo 教學 - 如何透過 log_level 了解 ORM RAW SQL</a><br/>Sep 9, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=azciLlpr3Gs"><img width="140px" src="https://i.ytimg.com/vi/azciLlpr3Gs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=azciLlpr3Gs">git 指令教學 - git tag 說明</a><br/>Sep 5, 2021</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
