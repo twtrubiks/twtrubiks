@@ -36,10 +36,10 @@
 <td><a href="https://www.youtube.com/watch?v=i_hG4s_YJN0">odoo 教學 - view parent 說明</a><br/>Sep 26, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=FE9lvN62aTo"><img width="140px" src="https://i.ytimg.com/vi/FE9lvN62aTo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FE9lvN62aTo">odoo 教學 - QWeb</a><br/>Sep 20, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=_YkrOp3ytlQ"><img width="140px" src="https://i.ytimg.com/vi/_YkrOp3ytlQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_YkrOp3ytlQ">odoo 教學 - form_view_ref 以及 tree_view_ref 說明</a><br/>Sep 18, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OOlPZETkYKw"><img width="140px" src="https://i.ytimg.com/vi/OOlPZETkYKw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OOlPZETkYKw">odoo 14 教學 - auto_join 說明</a><br/>Sep 15, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=sZWFGf23gWc"><img width="140px" src="https://i.ytimg.com/vi/sZWFGf23gWc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sZWFGf23gWc">odoo 教學 - 如何透過 log_level 了解 ORM RAW SQL</a><br/>Sep 9, 2021</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
