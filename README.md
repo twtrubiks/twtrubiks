@@ -31,7 +31,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=DUd5f1-wlDQ"><img width="140px" src="https://i.ytimg.com/vi/DUd5f1-wlDQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DUd5f1-wlDQ">odoo15 介紹 - Discuss 新增視訊功能</a><br/>Oct 24, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=DUd5f1-wlDQ">odoo15 介紹 - Discuss 新增視訊功能</a><br/>Oct 26, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=S9jahU9aG-s"><img width="140px" src="https://i.ytimg.com/vi/S9jahU9aG-s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S9jahU9aG-s">odoo index 教學</a><br/>Oct 21, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=E0LrhmozZQI"><img width="140px" src="https://i.ytimg.com/vi/E0LrhmozZQI/mqdefault.jpg"></a></td>
