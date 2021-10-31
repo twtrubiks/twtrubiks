@@ -32,14 +32,14 @@
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=DUd5f1-wlDQ"><img width="140px" src="https://i.ytimg.com/vi/DUd5f1-wlDQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DUd5f1-wlDQ">odoo15 介紹 - Discuss 新增視訊功能</a><br/>Oct 26, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=aqEJ7CMfEIo"><img width="140px" src="https://i.ytimg.com/vi/aqEJ7CMfEIo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aqEJ7CMfEIo">odoo15 介紹 - collaborative 協同編輯欄位</a><br/>Oct 24, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=S9jahU9aG-s"><img width="140px" src="https://i.ytimg.com/vi/S9jahU9aG-s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S9jahU9aG-s">odoo index 教學</a><br/>Oct 21, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=E0LrhmozZQI"><img width="140px" src="https://i.ytimg.com/vi/E0LrhmozZQI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=E0LrhmozZQI">Odoo Domain Operator 教學</a><br/>Oct 17, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Gr8eXYRSrtM"><img width="140px" src="https://i.ytimg.com/vi/Gr8eXYRSrtM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Gr8eXYRSrtM">Odoo Domain 教學 - 波蘭表示法</a><br/>Oct 11, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=_YkrOp3ytlQ"><img width="140px" src="https://i.ytimg.com/vi/_YkrOp3ytlQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_YkrOp3ytlQ">odoo 教學 - form_view_ref 以及 tree_view_ref 說明</a><br/>Oct 6, 2021</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
