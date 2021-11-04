@@ -30,10 +30,10 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=aqEJ7CMfEIo"><img width="140px" src="https://i.ytimg.com/vi/aqEJ7CMfEIo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=UHMvLnPZSVM"><img width="140px" src="https://i.ytimg.com/vi/UHMvLnPZSVM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UHMvLnPZSVM">odoo15 介紹 - 全新的 HTML Editor 以及新的 commands /</a><br/>Nov 3, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=aqEJ7CMfEIo"><img width="140px" src="https://i.ytimg.com/vi/aqEJ7CMfEIo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aqEJ7CMfEIo">odoo15 介紹 - collaborative 協同編輯欄位</a><br/>Oct 31, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=UHMvLnPZSVM"><img width="140px" src="https://i.ytimg.com/vi/UHMvLnPZSVM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UHMvLnPZSVM">odoo15 介紹 - 全新的 HTML Editor 以及新的 commands /</a><br/>Oct 31, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=DUd5f1-wlDQ"><img width="140px" src="https://i.ytimg.com/vi/DUd5f1-wlDQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DUd5f1-wlDQ">odoo15 介紹 - Discuss 新增視訊功能</a><br/>Oct 26, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=S9jahU9aG-s"><img width="140px" src="https://i.ytimg.com/vi/S9jahU9aG-s/mqdefault.jpg"></a></td>
