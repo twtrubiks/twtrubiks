@@ -30,7 +30,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=nfq0Uo455Vc"><img width="140px" src="https://i.ytimg.com/vi/nfq0Uo455Vc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=K1Tf6Ek0t7I"><img width="140px" src="https://i.ytimg.com/vi/K1Tf6Ek0t7I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=K1Tf6Ek0t7I">odoo15 介紹 - Group By Many2many Fields 以及更快速的編輯 Edit, Mass Editing</a><br/>Nov 14, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=nfq0Uo455Vc"><img width="140px" src="https://i.ytimg.com/vi/nfq0Uo455Vc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nfq0Uo455Vc">Odoo Controller Website 教學</a><br/>Nov 13, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=DtHOq9UWe0w"><img width="140px" src="https://i.ytimg.com/vi/DtHOq9UWe0w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DtHOq9UWe0w">odoo 觀念 - odoo12 和 odoo14 的 ORM Write 差異</a><br/>Nov 8, 2021</td></tr>
@@ -38,8 +40,6 @@
 <td><a href="https://www.youtube.com/watch?v=UHMvLnPZSVM">odoo15 介紹 - 全新的 HTML Editor 以及新的 commands /</a><br/>Nov 3, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=aqEJ7CMfEIo"><img width="140px" src="https://i.ytimg.com/vi/aqEJ7CMfEIo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aqEJ7CMfEIo">odoo15 介紹 - collaborative 協同編輯欄位</a><br/>Oct 31, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=DUd5f1-wlDQ"><img width="140px" src="https://i.ytimg.com/vi/DUd5f1-wlDQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DUd5f1-wlDQ">odoo15 介紹 - Discuss 新增視訊功能</a><br/>Oct 26, 2021</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
