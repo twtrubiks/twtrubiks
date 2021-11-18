@@ -31,7 +31,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=K1Tf6Ek0t7I"><img width="140px" src="https://i.ytimg.com/vi/K1Tf6Ek0t7I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=K1Tf6Ek0t7I">odoo15 介紹 - Group By Many2many Fields 以及更快速的編輯 Edit, Mass Editing</a><br/>Nov 14, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=K1Tf6Ek0t7I">odoo15 介紹 - Group By Many2many Fields 以及更快速的編輯 Edit, Mass Editing</a><br/>Nov 17, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=nfq0Uo455Vc"><img width="140px" src="https://i.ytimg.com/vi/nfq0Uo455Vc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nfq0Uo455Vc">Odoo Controller Website 教學</a><br/>Nov 13, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=DtHOq9UWe0w"><img width="140px" src="https://i.ytimg.com/vi/DtHOq9UWe0w/mqdefault.jpg"></a></td>
