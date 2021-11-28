@@ -30,7 +30,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=_DQSuCx-no4"><img width="140px" src="https://i.ytimg.com/vi/_DQSuCx-no4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=YIXgNUrvqp0"><img width="140px" src="https://i.ytimg.com/vi/YIXgNUrvqp0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YIXgNUrvqp0">Nginx 搭配 RTMP HLS 建立簡易直播 Server - 概念 part1</a><br/>Nov 28, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=_DQSuCx-no4"><img width="140px" src="https://i.ytimg.com/vi/_DQSuCx-no4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_DQSuCx-no4">odoo15 新功能 -  Project Sharing - backend view</a><br/>Nov 22, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=K1Tf6Ek0t7I"><img width="140px" src="https://i.ytimg.com/vi/K1Tf6Ek0t7I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=K1Tf6Ek0t7I">odoo15 介紹 - Group By Many2many Fields 以及更快速的編輯 Edit, Mass Editing</a><br/>Nov 17, 2021</td></tr>
@@ -38,8 +40,6 @@
 <td><a href="https://www.youtube.com/watch?v=nfq0Uo455Vc">Odoo Controller Website 教學</a><br/>Nov 13, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=DtHOq9UWe0w"><img width="140px" src="https://i.ytimg.com/vi/DtHOq9UWe0w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DtHOq9UWe0w">odoo 觀念 - odoo12 和 odoo14 的 ORM Write 差異</a><br/>Nov 8, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=UHMvLnPZSVM"><img width="140px" src="https://i.ytimg.com/vi/UHMvLnPZSVM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UHMvLnPZSVM">odoo15 介紹 - 全新的 HTML Editor 以及新的 commands /</a><br/>Nov 3, 2021</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
