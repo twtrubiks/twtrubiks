@@ -8,6 +8,7 @@
 - 🥅 Hope to contribute to society through coding
 - ⚡  What I write is not a code, but a dream
 - 📺 I make development and tech tutorials on [YouTube](https://www.youtube.com/user/blue524326)
+- 🔭 My CV - http://bit.ly/2y0tNQS
 
 ### 🙋‍♂️ Connect with me:
 
