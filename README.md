@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=LrAxl5vfXJ4"><img width="140px" src="https://i.ytimg.com/vi/LrAxl5vfXJ4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LrAxl5vfXJ4">python vrcpy 介紹教學 - 輕鬆把 request 錄下來</a><br/>Dec 19, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=LrAxl5vfXJ4">python vcrpy 介紹教學 - 輕鬆把 request 錄下來</a><br/>Dec 19, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OfsAXDnz9C4"><img width="140px" src="https://i.ytimg.com/vi/OfsAXDnz9C4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OfsAXDnz9C4">odoo15 新功能 - Website Builder, Configuration Wizards, New Jinja mail templates</a><br/>Dec 12, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=2Q8sg2reV30"><img width="140px" src="https://i.ytimg.com/vi/2Q8sg2reV30/mqdefault.jpg"></a></td>
