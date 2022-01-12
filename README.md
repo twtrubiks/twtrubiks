@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=9cXDjWJhjsU"><img width="140px" src="https://i.ytimg.com/vi/9cXDjWJhjsU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=q8ec5m4hyEo"><img width="140px" src="https://i.ytimg.com/vi/q8ec5m4hyEo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=q8ec5m4hyEo">odoo 14 教學 - 透過 controller 建立簡單 api</a><br/>Jan 11, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=9cXDjWJhjsU"><img width="140px" src="https://i.ytimg.com/vi/9cXDjWJhjsU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9cXDjWJhjsU">python 套件介紹 - pipx, flake8, black, isort</a><br/>Jan 5, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=mpTVF18qryE"><img width="140px" src="https://i.ytimg.com/vi/mpTVF18qryE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mpTVF18qryE">odoo15 新功能 -  Profiling and Product Images</a><br/>Dec 30, 2021</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=buwzrc9NidY">odoo15 新功能 -  Scheduled Actions Triggers</a><br/>Dec 25, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=LrAxl5vfXJ4"><img width="140px" src="https://i.ytimg.com/vi/LrAxl5vfXJ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LrAxl5vfXJ4">python vcrpy 介紹教學 - 輕鬆把 request 錄下來</a><br/>Dec 19, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=OfsAXDnz9C4"><img width="140px" src="https://i.ytimg.com/vi/OfsAXDnz9C4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OfsAXDnz9C4">odoo15 新功能 - Website Builder, Configuration Wizards, New Jinja mail templates</a><br/>Dec 12, 2021</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
