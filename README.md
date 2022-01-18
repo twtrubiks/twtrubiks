@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=hdDwy8wb5v8"><img width="140px" src="https://i.ytimg.com/vi/hdDwy8wb5v8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hdDwy8wb5v8">python 套件介紹 - commitizen 和 pre-commit</a><br/>Jan 16, 2022</td></tr>
+<td><a href="https://www.youtube.com/watch?v=hdDwy8wb5v8">python 套件介紹 - commitizen 和 pre-commit</a><br/>Jan 17, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=q8ec5m4hyEo"><img width="140px" src="https://i.ytimg.com/vi/q8ec5m4hyEo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=q8ec5m4hyEo">odoo 14 教學 - 透過 controller 建立簡單 api</a><br/>Jan 11, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=9cXDjWJhjsU"><img width="140px" src="https://i.ytimg.com/vi/9cXDjWJhjsU/mqdefault.jpg"></a></td>
