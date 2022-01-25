@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=uW1PsDPcJF4"><img width="140px" src="https://i.ytimg.com/vi/uW1PsDPcJF4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uW1PsDPcJF4">odoo 手把手教學 - 透過 AbstractModel 擴充 Model</a><br/>Jan 21, 2022</td></tr>
+<td><a href="https://www.youtube.com/watch?v=uW1PsDPcJF4">odoo 手把手教學 - 透過 AbstractModel 擴充 Model</a><br/>Jan 24, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=hdDwy8wb5v8"><img width="140px" src="https://i.ytimg.com/vi/hdDwy8wb5v8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hdDwy8wb5v8">python 套件介紹 - commitizen 和 pre-commit</a><br/>Jan 17, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=q8ec5m4hyEo"><img width="140px" src="https://i.ytimg.com/vi/q8ec5m4hyEo/mqdefault.jpg"></a></td>
