@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JyNyg7iHar0"><img width="140px" src="https://i.ytimg.com/vi/JyNyg7iHar0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=M36CNiK9xrM"><img width="140px" src="https://i.ytimg.com/vi/M36CNiK9xrM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=M36CNiK9xrM">odoo 手把手教學 - ACID transactions 說明</a><br/>Feb 16, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=JyNyg7iHar0"><img width="140px" src="https://i.ytimg.com/vi/JyNyg7iHar0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JyNyg7iHar0">odoo 手把手教學 - groups 搭配 fields 用法</a><br/>Feb 12, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=uW1PsDPcJF4"><img width="140px" src="https://i.ytimg.com/vi/uW1PsDPcJF4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uW1PsDPcJF4">odoo 手把手教學 - 透過 AbstractModel 擴充 Model</a><br/>Jan 24, 2022</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=hdDwy8wb5v8">python 套件介紹 - commitizen 和 pre-commit</a><br/>Jan 17, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=q8ec5m4hyEo"><img width="140px" src="https://i.ytimg.com/vi/q8ec5m4hyEo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=q8ec5m4hyEo">odoo 14 教學 - 透過 controller 建立簡單 api</a><br/>Jan 11, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=9cXDjWJhjsU"><img width="140px" src="https://i.ytimg.com/vi/9cXDjWJhjsU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9cXDjWJhjsU">python 套件介紹 - pipx, flake8, black, isort</a><br/>Jan 5, 2022</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
