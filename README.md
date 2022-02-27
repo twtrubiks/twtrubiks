@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=702H2gkJzCE"><img width="140px" src="https://i.ytimg.com/vi/702H2gkJzCE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=702H2gkJzCE">Linux QEMU-KVM 教學</a><br/>Feb 22, 2022</td></tr>
+<td><a href="https://www.youtube.com/watch?v=702H2gkJzCE">Linux QEMU-KVM 教學</a><br/>Feb 26, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=M36CNiK9xrM"><img width="140px" src="https://i.ytimg.com/vi/M36CNiK9xrM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=M36CNiK9xrM">odoo 手把手教學 - ACID transactions 說明</a><br/>Feb 19, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JyNyg7iHar0"><img width="140px" src="https://i.ytimg.com/vi/JyNyg7iHar0/mqdefault.jpg"></a></td>
