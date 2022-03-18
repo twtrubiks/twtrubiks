@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=WD7W9RwusS0"><img width="140px" src="https://i.ytimg.com/vi/WD7W9RwusS0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=BsQqH40eOKY"><img width="140px" src="https://i.ytimg.com/vi/BsQqH40eOKY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BsQqH40eOKY">Linux 教學 - inotify-tools 監控檔案變動 inotifywait</a><br/>Mar 17, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=WD7W9RwusS0"><img width="140px" src="https://i.ytimg.com/vi/WD7W9RwusS0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WD7W9RwusS0">odoo 手把手教學 - session_redis 教學</a><br/>Mar 14, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PSiDfM840NI"><img width="140px" src="https://i.ytimg.com/vi/PSiDfM840NI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PSiDfM840NI">odoo 手把手教學 - 特殊 groups 應用說明</a><br/>Mar 5, 2022</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=702H2gkJzCE">Linux QEMU-KVM 教學</a><br/>Feb 26, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=M36CNiK9xrM"><img width="140px" src="https://i.ytimg.com/vi/M36CNiK9xrM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=M36CNiK9xrM">odoo 手把手教學 - ACID transactions 說明</a><br/>Feb 19, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=JyNyg7iHar0"><img width="140px" src="https://i.ytimg.com/vi/JyNyg7iHar0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JyNyg7iHar0">odoo 手把手教學 - groups 搭配 fields 用法</a><br/>Feb 12, 2022</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
