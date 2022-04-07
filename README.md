@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=UIVMGMD6HT0"><img width="140px" src="https://i.ytimg.com/vi/UIVMGMD6HT0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=xySBGaX_oSk"><img width="140px" src="https://i.ytimg.com/vi/xySBGaX_oSk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xySBGaX_oSk">Odoo 15 教學 - LISTEN/NOTIFY 運作原理</a><br/>Apr 6, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=UIVMGMD6HT0"><img width="140px" src="https://i.ytimg.com/vi/UIVMGMD6HT0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UIVMGMD6HT0">Postgresql 教學 LISTEN/NOTIFY - Python</a><br/>Mar 30, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=BsQqH40eOKY"><img width="140px" src="https://i.ytimg.com/vi/BsQqH40eOKY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BsQqH40eOKY">Linux 教學 - inotify-tools 監控檔案變動 inotifywait</a><br/>Mar 21, 2022</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=WD7W9RwusS0">odoo 手把手教學 - session_redis 教學</a><br/>Mar 14, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PSiDfM840NI"><img width="140px" src="https://i.ytimg.com/vi/PSiDfM840NI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PSiDfM840NI">odoo 手把手教學 - 特殊 groups 應用說明</a><br/>Mar 5, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=702H2gkJzCE"><img width="140px" src="https://i.ytimg.com/vi/702H2gkJzCE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=702H2gkJzCE">Linux QEMU-KVM 教學</a><br/>Feb 26, 2022</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
