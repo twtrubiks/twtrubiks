@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=tAn1mMB40XU"><img width="140px" src="https://i.ytimg.com/vi/tAn1mMB40XU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tAn1mMB40XU">讓我們來認識 odoo ERP</a><br/>Jul 15, 2022</td></tr>
+<td><a href="https://www.youtube.com/watch?v=tAn1mMB40XU">讓我們來認識 odoo ERP</a><br/>Jul 26, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=cFmBuzUgAQ8"><img width="140px" src="https://i.ytimg.com/vi/cFmBuzUgAQ8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cFmBuzUgAQ8">Docker ELK -  Index Lifecycle Management&lpar;ILM&rpar; 教學</a><br/>Jul 11, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Qooa32JlOAk"><img width="140px" src="https://i.ytimg.com/vi/Qooa32JlOAk/mqdefault.jpg"></a></td>
