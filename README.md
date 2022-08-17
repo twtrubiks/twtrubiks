@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=pCnGcLj_3Lg"><img width="140px" src="https://i.ytimg.com/vi/pCnGcLj_3Lg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pCnGcLj_3Lg">Github Actions 教學 -  automatic-releases</a><br/>Aug 13, 2022</td></tr>
+<td><a href="https://www.youtube.com/watch?v=pCnGcLj_3Lg">Github Actions 教學 -  automatic-releases</a><br/>Aug 16, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tAn1mMB40XU"><img width="140px" src="https://i.ytimg.com/vi/tAn1mMB40XU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tAn1mMB40XU">讓我們來認識 odoo ERP</a><br/>Jul 26, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=cFmBuzUgAQ8"><img width="140px" src="https://i.ytimg.com/vi/cFmBuzUgAQ8/mqdefault.jpg"></a></td>
