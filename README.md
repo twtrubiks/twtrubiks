@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=pCnGcLj_3Lg"><img width="140px" src="https://i.ytimg.com/vi/pCnGcLj_3Lg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=zxxzcpvCa6o"><img width="140px" src="https://i.ytimg.com/vi/zxxzcpvCa6o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zxxzcpvCa6o">postgresql 中的 master-slave 主從複寫 架構 - 教學</a><br/>Aug 25, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=pCnGcLj_3Lg"><img width="140px" src="https://i.ytimg.com/vi/pCnGcLj_3Lg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pCnGcLj_3Lg">Github Actions 教學 -  automatic-releases</a><br/>Aug 16, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tAn1mMB40XU"><img width="140px" src="https://i.ytimg.com/vi/tAn1mMB40XU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tAn1mMB40XU">讓我們來認識 odoo ERP</a><br/>Jul 26, 2022</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=cFmBuzUgAQ8">Docker ELK -  Index Lifecycle Management&lpar;ILM&rpar; 教學</a><br/>Jul 11, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Qooa32JlOAk"><img width="140px" src="https://i.ytimg.com/vi/Qooa32JlOAk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Qooa32JlOAk">Docker ELK - 刪除 elasticsearch index 教學 curator</a><br/>Jun 29, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=A8EIa9FH8sY"><img width="140px" src="https://i.ytimg.com/vi/A8EIa9FH8sY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=A8EIa9FH8sY">Docker ELK Filebeat - Create daily indices 教學, 設定 multiline</a><br/>Jun 22, 2022</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
