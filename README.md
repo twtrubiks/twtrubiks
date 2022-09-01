@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=zxxzcpvCa6o"><img width="140px" src="https://i.ytimg.com/vi/zxxzcpvCa6o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zxxzcpvCa6o">postgresql 中的 master-slave 主從複寫 架構 - 教學</a><br/>Aug 25, 2022</td></tr>
+<td><a href="https://www.youtube.com/watch?v=zxxzcpvCa6o">postgresql 中的 master-slave 主從複寫 架構 - 教學</a><br/>Aug 31, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=pCnGcLj_3Lg"><img width="140px" src="https://i.ytimg.com/vi/pCnGcLj_3Lg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pCnGcLj_3Lg">Github Actions 教學 -  automatic-releases</a><br/>Aug 16, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tAn1mMB40XU"><img width="140px" src="https://i.ytimg.com/vi/tAn1mMB40XU/mqdefault.jpg"></a></td>
