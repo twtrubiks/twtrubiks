@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=trVzF-jBFTo"><img width="140px" src="https://i.ytimg.com/vi/trVzF-jBFTo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=RqI-DF1I8R0"><img width="140px" src="https://i.ytimg.com/vi/RqI-DF1I8R0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RqI-DF1I8R0">Linux 指令教學 - tldr ,  shred ,  sleep</a><br/>Feb 27, 2023</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=trVzF-jBFTo"><img width="140px" src="https://i.ytimg.com/vi/trVzF-jBFTo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=trVzF-jBFTo">透過 django 介紹 N+1 Queries Problem</a><br/>Feb 11, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=pXOFmK0eVDk"><img width="140px" src="https://i.ytimg.com/vi/pXOFmK0eVDk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pXOFmK0eVDk">docker-selenium-tutorial 教學 Python</a><br/>Jan 14, 2023</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=QWZM5d3pa4Q">Postgresql - PgBouncer 教學</a><br/>Sep 14, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=zxxzcpvCa6o"><img width="140px" src="https://i.ytimg.com/vi/zxxzcpvCa6o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zxxzcpvCa6o">postgresql 中的 master-slave 主從複寫 架構 - 教學</a><br/>Aug 31, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=pCnGcLj_3Lg"><img width="140px" src="https://i.ytimg.com/vi/pCnGcLj_3Lg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pCnGcLj_3Lg">Github Actions 教學 -  automatic-releases</a><br/>Aug 16, 2022</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
