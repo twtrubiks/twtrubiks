@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=zWODI3YHb2Y"><img width="140px" src="https://i.ytimg.com/vi/zWODI3YHb2Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zWODI3YHb2Y">NGIXN 教學 - auth basic</a><br/>May 27, 2023</td></tr>
+<td><a href="https://www.youtube.com/watch?v=zWODI3YHb2Y">NGINX 教學 - auth basic</a><br/>May 28, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WtwU_ry-goI"><img width="140px" src="https://i.ytimg.com/vi/WtwU_ry-goI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WtwU_ry-goI">odoo 16 手把手教學 - compute fields - precompute</a><br/>May 20, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=RqI-DF1I8R0"><img width="140px" src="https://i.ytimg.com/vi/RqI-DF1I8R0/mqdefault.jpg"></a></td>
