@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=8vqi0r3ba5E"><img width="140px" src="https://i.ytimg.com/vi/8vqi0r3ba5E/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=KbaHWdVej9U"><img width="140px" src="https://i.ytimg.com/vi/KbaHWdVej9U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KbaHWdVej9U">Docker container 內如何連接到本機 localhost 服務 host.docker.internal</a><br/>Jun 16, 2023</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=8vqi0r3ba5E"><img width="140px" src="https://i.ytimg.com/vi/8vqi0r3ba5E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8vqi0r3ba5E">odoo 16 手把手教學 - Command 操作 M2M O2M</a><br/>Jun 11, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=QffnQZgvmwE"><img width="140px" src="https://i.ytimg.com/vi/QffnQZgvmwE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QffnQZgvmwE">docker 教學 Health Check</a><br/>Jun 4, 2023</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=zWODI3YHb2Y">NGINX 教學 - auth basic</a><br/>May 28, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WtwU_ry-goI"><img width="140px" src="https://i.ytimg.com/vi/WtwU_ry-goI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WtwU_ry-goI">odoo 16 手把手教學 - compute fields - precompute</a><br/>May 20, 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=RqI-DF1I8R0"><img width="140px" src="https://i.ytimg.com/vi/RqI-DF1I8R0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RqI-DF1I8R0">Linux 指令教學 - tldr ,  shred ,  sleep</a><br/>Feb 27, 2023</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
