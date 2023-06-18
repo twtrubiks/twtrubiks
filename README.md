@@ -8,7 +8,7 @@
 - 🥅 Hope to contribute to society through coding
 - ⚡  What I write is not a code, but a dream
 - 📺 I make development and tech tutorials on [YouTube](https://www.youtube.com/user/blue524326)
-- 🔭 My CV - http://bit.ly/2y0tNQS
+- 🔭 My CV - https://www.cakeresume.com/blue555236sa56
 
 ### 🙋‍♂️ Connect with me:
 
