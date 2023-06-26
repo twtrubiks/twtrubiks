@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Kq7Ti_gMU0U"><img width="140px" src="https://i.ytimg.com/vi/Kq7Ti_gMU0U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Kq7Ti_gMU0U">odoo 16 手把手教學 - 新功能 Neutralize</a><br/>Jun 22, 2023</td></tr>
+<td><a href="https://www.youtube.com/watch?v=Kq7Ti_gMU0U">odoo 16 手把手教學 - 新功能 Neutralize</a><br/>Jun 25, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KbaHWdVej9U"><img width="140px" src="https://i.ytimg.com/vi/KbaHWdVej9U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KbaHWdVej9U">Docker container 內如何連接到本機 localhost 服務 host.docker.internal</a><br/>Jun 18, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=8vqi0r3ba5E"><img width="140px" src="https://i.ytimg.com/vi/8vqi0r3ba5E/mqdefault.jpg"></a></td>
