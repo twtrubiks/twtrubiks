@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=yzovQ8WXwiA"><img width="140px" src="https://i.ytimg.com/vi/yzovQ8WXwiA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yzovQ8WXwiA">MongoDB Compass &lpar;GUI&rpar; 以及 PyMongo - Part 2</a><br/>Jul 14, 2023</td></tr>
+<td><a href="https://www.youtube.com/watch?v=yzovQ8WXwiA">MongoDB Compass &lpar;GUI&rpar; 以及 PyMongo - Part 2</a><br/>Jul 16, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ik6vKTdmGEQ"><img width="140px" src="https://i.ytimg.com/vi/ik6vKTdmGEQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ik6vKTdmGEQ">初步探索 MongoDB Shell CRUD - Part 1</a><br/>Jul 9, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=9bsvYo1a-mk"><img width="140px" src="https://i.ytimg.com/vi/9bsvYo1a-mk/mqdefault.jpg"></a></td>
