@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=yzovQ8WXwiA"><img width="140px" src="https://i.ytimg.com/vi/yzovQ8WXwiA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=aJRRVCB85k8"><img width="140px" src="https://i.ytimg.com/vi/aJRRVCB85k8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aJRRVCB85k8">GitHub 教學 - Personal Access Tokens</a><br/>Jul 25, 2023</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=yzovQ8WXwiA"><img width="140px" src="https://i.ytimg.com/vi/yzovQ8WXwiA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yzovQ8WXwiA">MongoDB Compass &lpar;GUI&rpar; 以及 PyMongo - Part 2</a><br/>Jul 16, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ik6vKTdmGEQ"><img width="140px" src="https://i.ytimg.com/vi/ik6vKTdmGEQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ik6vKTdmGEQ">初步探索 MongoDB Shell CRUD - Part 1</a><br/>Jul 9, 2023</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=9bsvYo1a-mk">SSH Tunneling 教學 - Local Port Forwarding, Remote Port Forwarding</a><br/>Jul 2, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Kq7Ti_gMU0U"><img width="140px" src="https://i.ytimg.com/vi/Kq7Ti_gMU0U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Kq7Ti_gMU0U">odoo 16 手把手教學 - 新功能 Neutralize</a><br/>Jun 25, 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=KbaHWdVej9U"><img width="140px" src="https://i.ytimg.com/vi/KbaHWdVej9U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KbaHWdVej9U">Docker container 內如何連接到本機 localhost 服務 host.docker.internal</a><br/>Jun 18, 2023</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
