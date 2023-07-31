@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=aJRRVCB85k8"><img width="140px" src="https://i.ytimg.com/vi/aJRRVCB85k8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aJRRVCB85k8">GitHub 教學 - Personal Access Tokens</a><br/>Jul 25, 2023</td></tr>
+<td><a href="https://www.youtube.com/watch?v=aJRRVCB85k8">GitHub 教學 - Personal Access Tokens</a><br/>Jul 30, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yzovQ8WXwiA"><img width="140px" src="https://i.ytimg.com/vi/yzovQ8WXwiA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yzovQ8WXwiA">MongoDB Compass &lpar;GUI&rpar; 以及 PyMongo - Part 2</a><br/>Jul 16, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ik6vKTdmGEQ"><img width="140px" src="https://i.ytimg.com/vi/ik6vKTdmGEQ/mqdefault.jpg"></a></td>
