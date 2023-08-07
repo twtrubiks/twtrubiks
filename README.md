@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=X_1o8e-DjH0"><img width="140px" src="https://i.ytimg.com/vi/X_1o8e-DjH0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=X_1o8e-DjH0">海象運算符 PEP 572 – Assignment Expressions - python3</a><br/>Aug 5, 2023</td></tr>
+<td><a href="https://www.youtube.com/watch?v=X_1o8e-DjH0">海象運算符 PEP 572 – Assignment Expressions - python3</a><br/>Aug 6, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=aJRRVCB85k8"><img width="140px" src="https://i.ytimg.com/vi/aJRRVCB85k8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aJRRVCB85k8">GitHub 教學 - Personal Access Tokens</a><br/>Jul 30, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yzovQ8WXwiA"><img width="140px" src="https://i.ytimg.com/vi/yzovQ8WXwiA/mqdefault.jpg"></a></td>
