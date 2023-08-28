@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=IqY-tLWr770"><img width="140px" src="https://i.ytimg.com/vi/IqY-tLWr770/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IqY-tLWr770">Odoo16  mobile scan  手機掃描電子發票自動建立憑證</a><br/>Aug 17, 2023</td></tr>
+<td><a href="https://www.youtube.com/watch?v=IqY-tLWr770">Odoo16  mobile scan  手機掃描電子發票自動建立憑證</a><br/>Aug 27, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=iCaTDiSV_6g"><img width="140px" src="https://i.ytimg.com/vi/iCaTDiSV_6g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iCaTDiSV_6g">odoo 16 手把手教學 - fake Binary fields&lpar;改善效能&rpar;</a><br/>Aug 13, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=X_1o8e-DjH0"><img width="140px" src="https://i.ytimg.com/vi/X_1o8e-DjH0/mqdefault.jpg"></a></td>
