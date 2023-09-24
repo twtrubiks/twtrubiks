@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=v49HxYdg-q0"><img width="140px" src="https://i.ytimg.com/vi/v49HxYdg-q0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=vYJSszNysts"><img width="140px" src="https://i.ytimg.com/vi/vYJSszNysts/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vYJSszNysts">odoo 16 手把手教學 - json fields - 改善效能</a><br/>Sep 23, 2023</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=v49HxYdg-q0"><img width="140px" src="https://i.ytimg.com/vi/v49HxYdg-q0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v49HxYdg-q0">postgresql 教學 - json jonsb</a><br/>Sep 10, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=IqY-tLWr770"><img width="140px" src="https://i.ytimg.com/vi/IqY-tLWr770/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IqY-tLWr770">Odoo16  mobile scan  手機掃描電子發票自動建立憑證</a><br/>Aug 27, 2023</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=iCaTDiSV_6g">odoo 16 手把手教學 - fake Binary fields&lpar;改善效能&rpar;</a><br/>Aug 13, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=X_1o8e-DjH0"><img width="140px" src="https://i.ytimg.com/vi/X_1o8e-DjH0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=X_1o8e-DjH0">海象運算符 PEP 572 – Assignment Expressions - python3</a><br/>Aug 6, 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=aJRRVCB85k8"><img width="140px" src="https://i.ytimg.com/vi/aJRRVCB85k8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aJRRVCB85k8">GitHub 教學 - Personal Access Tokens</a><br/>Jul 30, 2023</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
