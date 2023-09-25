@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=vYJSszNysts"><img width="140px" src="https://i.ytimg.com/vi/vYJSszNysts/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vYJSszNysts">odoo 16 手把手教學 - json fields - 改善效能</a><br/>Sep 23, 2023</td></tr>
+<td><a href="https://www.youtube.com/watch?v=vYJSszNysts">odoo 16 手把手教學 - json fields - 改善效能</a><br/>Sep 24, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=v49HxYdg-q0"><img width="140px" src="https://i.ytimg.com/vi/v49HxYdg-q0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v49HxYdg-q0">postgresql 教學 - json jonsb</a><br/>Sep 10, 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=IqY-tLWr770"><img width="140px" src="https://i.ytimg.com/vi/IqY-tLWr770/mqdefault.jpg"></a></td>
