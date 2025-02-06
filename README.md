@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=jK80jBo0w_M"><img width="140px" src="https://i.ytimg.com/vi/jK80jBo0w_M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jK80jBo0w_M">2024年 台股心得分享回顧</a><br/>Feb 2, 2025</td></tr>
+<td><a href="https://www.youtube.com/watch?v=jK80jBo0w_M">2024年 台股心得分享回顧</a><br/>Feb 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=bEfa4qMsvS8"><img width="140px" src="https://i.ytimg.com/vi/bEfa4qMsvS8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bEfa4qMsvS8">台北北飄仔一年的工作體驗 - 軟體工程師</a><br/>Oct 31, 2024</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=vYJSszNysts"><img width="140px" src="https://i.ytimg.com/vi/vYJSszNysts/mqdefault.jpg"></a></td>
