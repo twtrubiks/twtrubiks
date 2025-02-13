@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JgUZMSeVgIs"><img width="140px" src="https://i.ytimg.com/vi/JgUZMSeVgIs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JgUZMSeVgIs">odoo 18 - 快速簡介</a><br/>Feb 9, 2025</td></tr>
+<td><a href="https://www.youtube.com/watch?v=JgUZMSeVgIs">odoo 18 - 快速簡介</a><br/>Feb 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=jK80jBo0w_M"><img width="140px" src="https://i.ytimg.com/vi/jK80jBo0w_M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jK80jBo0w_M">2024年 台股心得分享回顧</a><br/>Feb 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=bEfa4qMsvS8"><img width="140px" src="https://i.ytimg.com/vi/bEfa4qMsvS8/mqdefault.jpg"></a></td>
