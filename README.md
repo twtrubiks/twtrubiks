@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JgUZMSeVgIs"><img width="140px" src="https://i.ytimg.com/vi/JgUZMSeVgIs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=AJksUa9GLP4"><img width="140px" src="https://i.ytimg.com/vi/AJksUa9GLP4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AJksUa9GLP4">odoo 17 手把手教學 - obfuscate 混淆</a><br/>Feb 15, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=JgUZMSeVgIs"><img width="140px" src="https://i.ytimg.com/vi/JgUZMSeVgIs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JgUZMSeVgIs">odoo 18 - 快速簡介</a><br/>Feb 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=jK80jBo0w_M"><img width="140px" src="https://i.ytimg.com/vi/jK80jBo0w_M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jK80jBo0w_M">2024年 台股心得分享回顧</a><br/>Feb 5, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=bEfa4qMsvS8">台北北飄仔一年的工作體驗 - 軟體工程師</a><br/>Oct 31, 2024</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=vYJSszNysts"><img width="140px" src="https://i.ytimg.com/vi/vYJSszNysts/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vYJSszNysts">odoo 16 手把手教學 - json fields - 改善效能</a><br/>Sep 24, 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=v49HxYdg-q0"><img width="140px" src="https://i.ytimg.com/vi/v49HxYdg-q0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v49HxYdg-q0">postgresql 教學 - json jonsb</a><br/>Sep 10, 2023</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
