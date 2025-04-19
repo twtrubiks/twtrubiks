@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=t_n9xWmhEZw"><img width="140px" src="https://i.ytimg.com/vi/t_n9xWmhEZw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=yi4AyYju0vQ"><img width="140px" src="https://i.ytimg.com/vi/yi4AyYju0vQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yi4AyYju0vQ">Ollama 簡介安裝教學 以及 GGUF 格式</a><br/>Apr 19, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=t_n9xWmhEZw"><img width="140px" src="https://i.ytimg.com/vi/t_n9xWmhEZw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t_n9xWmhEZw">用 Cline 在 VSCode 玩轉 Model Context Protocol &lpar;MCP&rpar; 🚀</a><br/>Apr 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=uCj14FJu6EI"><img width="140px" src="https://i.ytimg.com/vi/uCj14FJu6EI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uCj14FJu6EI">n8n 自動化工具 docker 安裝以及簡介教學 - AI Agent 🤖</a><br/>Apr 4, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=G_r0g_Rj9Xk">odoo 17 手把手教學 - Views migration</a><br/>Mar 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=AJksUa9GLP4"><img width="140px" src="https://i.ytimg.com/vi/AJksUa9GLP4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AJksUa9GLP4">odoo 17 手把手教學 - obfuscate 混淆</a><br/>Feb 24, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=JgUZMSeVgIs"><img width="140px" src="https://i.ytimg.com/vi/JgUZMSeVgIs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JgUZMSeVgIs">odoo 18 - 快速簡介</a><br/>Feb 12, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
