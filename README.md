@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=EOZ91jD9aL8"><img width="140px" src="https://i.ytimg.com/vi/EOZ91jD9aL8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=G-UwxpRVjpg"><img width="140px" src="https://i.ytimg.com/vi/G-UwxpRVjpg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=G-UwxpRVjpg">用 NotebookLM 聊交易：解析《股票深度交易心理學》的認知偏差與正念【交易心理 Podcast】</a><br/>May 5, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=EOZ91jD9aL8"><img width="140px" src="https://i.ytimg.com/vi/EOZ91jD9aL8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EOZ91jD9aL8">告別手動撈資料 Claude AI MCP 自動查詢 Odoo PostgreSQL</a><br/>May 1, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=IIt68zX6xq8"><img width="140px" src="https://i.ytimg.com/vi/IIt68zX6xq8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IIt68zX6xq8">賦予瀏覽器 AI 大腦：深入 browser use 的多模態自動化革命</a><br/>Apr 26, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=yi4AyYju0vQ">Ollama 簡介安裝教學 以及 GGUF 格式</a><br/>Apr 19, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=t_n9xWmhEZw"><img width="140px" src="https://i.ytimg.com/vi/t_n9xWmhEZw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t_n9xWmhEZw">用 Cline 在 VSCode 玩轉 Model Context Protocol &lpar;MCP&rpar; 🚀</a><br/>Apr 12, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=uCj14FJu6EI"><img width="140px" src="https://i.ytimg.com/vi/uCj14FJu6EI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uCj14FJu6EI">n8n 自動化工具 docker 安裝以及簡介教學 - AI Agent 🤖</a><br/>Apr 4, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
