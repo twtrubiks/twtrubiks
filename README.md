@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=4oa3g1p1DjA"><img width="140px" src="https://i.ytimg.com/vi/4oa3g1p1DjA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4oa3g1p1DjA">Dify 安裝與連接 Ollama 設定指南 &lpar;Docker Compose&rpar;</a><br/>May 8, 2025</td></tr>
+<td><a href="https://www.youtube.com/watch?v=4oa3g1p1DjA">Dify 安裝與連接 Ollama 設定指南 &lpar;Docker Compose&rpar;</a><br/>May 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=aC6FGVdBh80"><img width="140px" src="https://i.ytimg.com/vi/aC6FGVdBh80/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aC6FGVdBh80">【AI 讀書會】NotebookLM 解析《韭菜的自我修養》：韭菜如何自救？&lpar;Podcast&rpar;</a><br/>May 8, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=G-UwxpRVjpg"><img width="140px" src="https://i.ytimg.com/vi/G-UwxpRVjpg/mqdefault.jpg"></a></td>
