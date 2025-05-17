@@ -31,10 +31,10 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=NLjxFdgrMzs"><img width="140px" src="https://i.ytimg.com/vi/NLjxFdgrMzs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=lYtQpV3icDY"><img width="140px" src="https://i.ytimg.com/vi/lYtQpV3icDY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lYtQpV3icDY">告別 AI 瞎猜！Context7 MCP + clinerules 精準生成 Odoo 18 Addon 實戰 &lpar;vscode&rpar;</a><br/>May 17, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=NLjxFdgrMzs"><img width="140px" src="https://i.ytimg.com/vi/NLjxFdgrMzs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NLjxFdgrMzs">《稀缺》AI讀書會：破解貧窮與忙碌的秘密 | NotebookLM Podcast</a><br/>May 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=lYtQpV3icDY"><img width="140px" src="https://i.ytimg.com/vi/lYtQpV3icDY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lYtQpV3icDY">告別 AI 瞎猜！Context7 MCP + clinerules 精準生成 Odoo 18 Addon 實戰 &lpar;vscode&rpar;</a><br/>May 15, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=aC6FGVdBh80"><img width="140px" src="https://i.ytimg.com/vi/aC6FGVdBh80/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aC6FGVdBh80">【AI 讀書會】NotebookLM 解析《韭菜的自我修養》：韭菜如何自救？&lpar;Podcast&rpar;</a><br/>May 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=4oa3g1p1DjA"><img width="140px" src="https://i.ytimg.com/vi/4oa3g1p1DjA/mqdefault.jpg"></a></td>
