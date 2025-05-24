@@ -31,16 +31,16 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=tP_5eo_t7Ho"><img width="140px" src="https://i.ytimg.com/vi/tP_5eo_t7Ho/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tP_5eo_t7Ho">【AI 讀書會】解析《股票投機原理》&lpar;薩繆爾·A·尼爾森&rpar; &lpar;Podcast&rpar;</a><br/>May 22, 2025</td></tr>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=m-zxTFDFhAI"><img width="140px" src="https://i.ytimg.com/vi/m-zxTFDFhAI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=m-zxTFDFhAI">Gemini Live 中文即時對話、Webcam 辨識、螢幕共享 實測！</a><br/>May 24, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=qsq4Hd_kf9s"><img width="140px" src="https://i.ytimg.com/vi/qsq4Hd_kf9s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qsq4Hd_kf9s">AI 如何思考？解密各大模型系統提示詞  + 超炫 GPT-4o 圖片集錦 + DeepWiki</a><br/>May 22, 2025</td></tr>
+<td><a href="https://www.youtube.com/watch?v=qsq4Hd_kf9s">AI 如何思考？解密各大模型系統提示詞  + 超炫 GPT-4o 圖片集錦 + DeepWiki</a><br/>May 24, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=tP_5eo_t7Ho"><img width="140px" src="https://i.ytimg.com/vi/tP_5eo_t7Ho/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tP_5eo_t7Ho">【AI 讀書會】解析《股票投機原理》&lpar;薩繆爾·A·尼爾森&rpar; &lpar;Podcast&rpar;</a><br/>May 22, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=NLjxFdgrMzs"><img width="140px" src="https://i.ytimg.com/vi/NLjxFdgrMzs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NLjxFdgrMzs">《稀缺》AI讀書會：破解貧窮與忙碌的秘密 | NotebookLM Podcast</a><br/>May 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=XDOA8NBSKHM"><img width="140px" src="https://i.ytimg.com/vi/XDOA8NBSKHM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XDOA8NBSKHM">KLING AI  - 上傳一張圖片, 給它 Prompt 它就動起來了</a><br/>May 18, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=lYtQpV3icDY"><img width="140px" src="https://i.ytimg.com/vi/lYtQpV3icDY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lYtQpV3icDY">告別 AI 瞎猜！Context7 MCP + clinerules 精準生成 Odoo 18 Addon 實戰 &lpar;vscode&rpar;</a><br/>May 17, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
