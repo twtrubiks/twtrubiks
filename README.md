@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=m-zxTFDFhAI"><img width="140px" src="https://i.ytimg.com/vi/m-zxTFDFhAI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=m-zxTFDFhAI">Gemini Live 中文即時對話、Webcam 辨識、螢幕共享 實測！</a><br/>May 24, 2025</td></tr>
+<td><a href="https://www.youtube.com/watch?v=m-zxTFDFhAI">Gemini Live 中文即時對話、Webcam 辨識、螢幕共享 實測！</a><br/>May 25, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=qsq4Hd_kf9s"><img width="140px" src="https://i.ytimg.com/vi/qsq4Hd_kf9s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qsq4Hd_kf9s">AI 如何思考？解密各大模型系統提示詞  + 超炫 GPT-4o 圖片集錦 + DeepWiki</a><br/>May 24, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tP_5eo_t7Ho"><img width="140px" src="https://i.ytimg.com/vi/tP_5eo_t7Ho/mqdefault.jpg"></a></td>
