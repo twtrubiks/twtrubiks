@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=XP-eYfnSYbc"><img width="140px" src="https://i.ytimg.com/vi/XP-eYfnSYbc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=qdgwWvpGvDc"><img width="140px" src="https://i.ytimg.com/vi/qdgwWvpGvDc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qdgwWvpGvDc">AI 模型太多管理不易？ Open WebUI 幫你搞定！從安裝到企業級應用</a><br/>May 30, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=XP-eYfnSYbc"><img width="140px" src="https://i.ytimg.com/vi/XP-eYfnSYbc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XP-eYfnSYbc">可愛的 ollama 努力工作 #veo2  #ollama #ai #cute</a><br/>May 28, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=-8ZdbaePE6w"><img width="140px" src="https://i.ytimg.com/vi/-8ZdbaePE6w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-8ZdbaePE6w">【AI 讀書會】梁實秋「快樂就是哈哈哈哈哈」的智慧 &lpar;Podcast&rpar;</a><br/>May 27, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=sqG14RLOaBE">我不和你說 AI 產的你看得出來嗎？  #正妹 #veo2  #黃昏  #電車  #微笑</a><br/>May 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tP_5eo_t7Ho"><img width="140px" src="https://i.ytimg.com/vi/tP_5eo_t7Ho/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tP_5eo_t7Ho">【AI 讀書會】解析《股票投機原理》&lpar;薩繆爾·A·尼爾森&rpar; &lpar;Podcast&rpar;</a><br/>May 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=PaY-xFQCiXQ"><img width="140px" src="https://i.ytimg.com/vi/PaY-xFQCiXQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PaY-xFQCiXQ">媽  他在跳！！！ AI 讓生活變得有趣了 #烏薩奇 #吉伊卡哇   #veo2</a><br/>May 25, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
