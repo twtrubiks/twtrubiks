@@ -31,16 +31,16 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=-8ZdbaePE6w"><img width="140px" src="https://i.ytimg.com/vi/-8ZdbaePE6w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=0VWoTw_k3EU"><img width="140px" src="https://i.ytimg.com/vi/0VWoTw_k3EU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0VWoTw_k3EU">【AI 讀書會】解析《海龜交易法則》&lpar;柯蒂斯·費思&rpar; &lpar;Podcast&rpar;</a><br/>Jun 5, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=E-X3kp8wCIg"><img width="140px" src="https://i.ytimg.com/vi/E-X3kp8wCIg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=E-X3kp8wCIg">Whisper YouTube 中文字幕生成指南 &lpar;無需Key&rpar;：從新手入門到 AI 校正</a><br/>Jun 4, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=5TvQzR7D1oM"><img width="140px" src="https://i.ytimg.com/vi/5TvQzR7D1oM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5TvQzR7D1oM">貓咪乾杯 #veo2  #Cheers #cat</a><br/>Jun 4, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=-8ZdbaePE6w"><img width="140px" src="https://i.ytimg.com/vi/-8ZdbaePE6w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-8ZdbaePE6w">【AI 讀書會】梁實秋「快樂就是哈哈哈哈哈」的智慧 &lpar;Podcast&rpar;</a><br/>Jun 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=8mHmulC6sss"><img width="140px" src="https://i.ytimg.com/vi/8mHmulC6sss/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8mHmulC6sss">帥阿!!! ぜんいつ #善逸 #鬼滅之刃 #veo2 #雷之呼吸</a><br/>Jun 1, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=qdgwWvpGvDc"><img width="140px" src="https://i.ytimg.com/vi/qdgwWvpGvDc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qdgwWvpGvDc">AI 模型太多管理不易？ Open WebUI 幫你搞定！從安裝到企業級應用</a><br/>May 31, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=3D9qSiZRiVM"><img width="140px" src="https://i.ytimg.com/vi/3D9qSiZRiVM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3D9qSiZRiVM">熊熊跑起來!!! #veo2  #動起來</a><br/>May 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=XP-eYfnSYbc"><img width="140px" src="https://i.ytimg.com/vi/XP-eYfnSYbc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XP-eYfnSYbc">可愛的 ollama 努力工作 #veo2  #ollama #ai #cute</a><br/>May 28, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
