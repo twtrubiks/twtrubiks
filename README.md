@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=E-X3kp8wCIg"><img width="140px" src="https://i.ytimg.com/vi/E-X3kp8wCIg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=DoL-fP5Y_Xg"><img width="140px" src="https://i.ytimg.com/vi/DoL-fP5Y_Xg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DoL-fP5Y_Xg">貓咪 high 起來 #veo2 #cat #cute #dancing</a><br/>Jun 8, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=E-X3kp8wCIg"><img width="140px" src="https://i.ytimg.com/vi/E-X3kp8wCIg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=E-X3kp8wCIg">Whisper YouTube 中文字幕生成指南 &lpar;無需Key&rpar;：從新手入門到 AI 校正</a><br/>Jun 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=O8-tEaVCdVI"><img width="140px" src="https://i.ytimg.com/vi/O8-tEaVCdVI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=O8-tEaVCdVI">卡車甩尾 還噴火 笑死 #veo2 #甩尾 #卡車 #噴火</a><br/>Jun 6, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=0VWoTw_k3EU">【AI 讀書會】解析《海龜交易法則》&lpar;柯蒂斯·費思&rpar; &lpar;Podcast&rpar;</a><br/>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=5TvQzR7D1oM"><img width="140px" src="https://i.ytimg.com/vi/5TvQzR7D1oM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5TvQzR7D1oM">貓咪乾杯 #veo2  #Cheers #cat</a><br/>Jun 4, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=-8ZdbaePE6w"><img width="140px" src="https://i.ytimg.com/vi/-8ZdbaePE6w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-8ZdbaePE6w">【AI 讀書會】梁實秋「快樂就是哈哈哈哈哈」的智慧 &lpar;Podcast&rpar;</a><br/>Jun 3, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
