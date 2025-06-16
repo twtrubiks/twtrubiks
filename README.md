@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=3u7m4XPT8Zs"><img width="140px" src="https://i.ytimg.com/vi/3u7m4XPT8Zs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/twionh-Pg-Y"><img width="140px" src="https://i.ytimg.com/vi/twionh-Pg-Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/twionh-Pg-Y">亞洲女生 #veo2</a><br/>Jun 15, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=3u7m4XPT8Zs"><img width="140px" src="https://i.ytimg.com/vi/3u7m4XPT8Zs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3u7m4XPT8Zs">複雜爬蟲掰掰！Playwright MCP + AI 輕鬆實現 PTT 圖片自由！</a><br/>Jun 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=IfvraxcWBwk"><img width="140px" src="https://i.ytimg.com/vi/IfvraxcWBwk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IfvraxcWBwk">【AI 讀書會】解析《彼得·林奇的成功投資》&lpar;Podcast&rpar;</a><br/>Jun 13, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/shorts/DHYNiG0qVOc">貓咪這麼輕鬆就把啞鈴舉起來了 #貓咪 #veo2 #cat</a><br/>Jun 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/uNpqOI1i3wI"><img width="140px" src="https://i.ytimg.com/vi/uNpqOI1i3wI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/uNpqOI1i3wI">大哥沒有輸!!!  #炎柱 #鬼滅之刃 #veo2 #煉獄杏寿郎</a><br/>Jun 11, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=0VWoTw_k3EU"><img width="140px" src="https://i.ytimg.com/vi/0VWoTw_k3EU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0VWoTw_k3EU">【AI 讀書會】解析《海龜交易法則》&lpar;柯蒂斯·費思&rpar; &lpar;Podcast&rpar;</a><br/>Jun 10, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
