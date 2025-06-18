@@ -31,16 +31,16 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/twionh-Pg-Y"><img width="140px" src="https://i.ytimg.com/vi/twionh-Pg-Y/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=CQcbfMSSK7c"><img width="140px" src="https://i.ytimg.com/vi/CQcbfMSSK7c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CQcbfMSSK7c">《金融怪傑》AI讀書會：揭秘華爾街頂級交易員的成功之道 | NotebookLM Podcast</a><br/>Jun 18, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=6jjYViLthi8"><img width="140px" src="https://i.ytimg.com/vi/6jjYViLthi8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6jjYViLthi8">告別「我電腦可以，你不行」！用 VSCode Dev Containers 統一團隊開發環境</a><br/>Jun 17, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=IfvraxcWBwk"><img width="140px" src="https://i.ytimg.com/vi/IfvraxcWBwk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IfvraxcWBwk">【AI 讀書會】解析《彼得·林奇的成功投資》&lpar;Podcast&rpar;</a><br/>Jun 17, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/twionh-Pg-Y"><img width="140px" src="https://i.ytimg.com/vi/twionh-Pg-Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/twionh-Pg-Y">亞洲女生 #veo2</a><br/>Jun 15, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=3u7m4XPT8Zs"><img width="140px" src="https://i.ytimg.com/vi/3u7m4XPT8Zs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3u7m4XPT8Zs">複雜爬蟲掰掰！Playwright MCP + AI 輕鬆實現 PTT 圖片自由！</a><br/>Jun 14, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=IfvraxcWBwk"><img width="140px" src="https://i.ytimg.com/vi/IfvraxcWBwk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IfvraxcWBwk">【AI 讀書會】解析《彼得·林奇的成功投資》&lpar;Podcast&rpar;</a><br/>Jun 13, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/DHYNiG0qVOc"><img width="140px" src="https://i.ytimg.com/vi/DHYNiG0qVOc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/DHYNiG0qVOc">貓咪這麼輕鬆就把啞鈴舉起來了 #貓咪 #veo2 #cat</a><br/>Jun 12, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/uNpqOI1i3wI"><img width="140px" src="https://i.ytimg.com/vi/uNpqOI1i3wI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/uNpqOI1i3wI">大哥沒有輸!!!  #炎柱 #鬼滅之刃 #veo2 #煉獄杏寿郎</a><br/>Jun 11, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
