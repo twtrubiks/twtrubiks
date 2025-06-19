@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=CQcbfMSSK7c"><img width="140px" src="https://i.ytimg.com/vi/CQcbfMSSK7c/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/xD0h-VCUAXc"><img width="140px" src="https://i.ytimg.com/vi/xD0h-VCUAXc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/xD0h-VCUAXc">The Tortoise and the Hare 龜兔賽跑  #veo2  #努力</a><br/>Jun 18, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=CQcbfMSSK7c"><img width="140px" src="https://i.ytimg.com/vi/CQcbfMSSK7c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CQcbfMSSK7c">《金融怪傑》AI讀書會：揭秘華爾街頂級交易員的成功之道 | NotebookLM Podcast</a><br/>Jun 18, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=6jjYViLthi8"><img width="140px" src="https://i.ytimg.com/vi/6jjYViLthi8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6jjYViLthi8">告別「我電腦可以，你不行」！用 VSCode Dev Containers 統一團隊開發環境</a><br/>Jun 17, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=IfvraxcWBwk">【AI 讀書會】解析《彼得·林奇的成功投資》&lpar;Podcast&rpar;</a><br/>Jun 17, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/twionh-Pg-Y"><img width="140px" src="https://i.ytimg.com/vi/twionh-Pg-Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/twionh-Pg-Y">亞洲女生 #veo2</a><br/>Jun 15, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=3u7m4XPT8Zs"><img width="140px" src="https://i.ytimg.com/vi/3u7m4XPT8Zs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3u7m4XPT8Zs">複雜爬蟲掰掰！Playwright MCP + AI 輕鬆實現 PTT 圖片自由！</a><br/>Jun 14, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
