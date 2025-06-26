@@ -31,16 +31,16 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=4mPPDdVHxIg"><img width="140px" src="https://i.ytimg.com/vi/4mPPDdVHxIg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=bvKTd1f8BBc"><img width="140px" src="https://i.ytimg.com/vi/bvKTd1f8BBc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bvKTd1f8BBc">【AI 讀書會】查理·蒙格的智慧：思考框架、投資策略與人生哲學《窮查理的普通常識》</a><br/>Jun 26, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/qzjGevkjLxc"><img width="140px" src="https://i.ytimg.com/vi/qzjGevkjLxc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/qzjGevkjLxc">傑尼龜消防員 救火啦   #veo2 #傑尼龜 #神奇寶貝 #寶可夢 #pokemon</a><br/>Jun 25, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=4mPPDdVHxIg"><img width="140px" src="https://i.ytimg.com/vi/4mPPDdVHxIg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4mPPDdVHxIg">Django Ninja：Type Hints + Pydantic 驗證，打造 FastAPI 開發體驗！</a><br/>Jun 24, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=CQcbfMSSK7c"><img width="140px" src="https://i.ytimg.com/vi/CQcbfMSSK7c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CQcbfMSSK7c">《金融怪傑》AI讀書會：揭秘華爾街頂級交易員的成功之道 | NotebookLM Podcast</a><br/>Jun 24, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/HJUnaXAipm0"><img width="140px" src="https://i.ytimg.com/vi/HJUnaXAipm0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/HJUnaXAipm0">女生在森林裡跑步  你覺得真實嘛 Kling AI 2.1 #klingai</a><br/>Jun 22, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=6jjYViLthi8"><img width="140px" src="https://i.ytimg.com/vi/6jjYViLthi8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6jjYViLthi8">告別「我電腦可以，你不行」！用 VSCode Dev Containers 統一團隊開發環境</a><br/>Jun 21, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/xD0h-VCUAXc"><img width="140px" src="https://i.ytimg.com/vi/xD0h-VCUAXc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/xD0h-VCUAXc">The Tortoise and the Hare 龜兔賽跑  #veo2  #努力</a><br/>Jun 18, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
