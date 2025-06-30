@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=dmiQ0zNe-JE"><img width="140px" src="https://i.ytimg.com/vi/dmiQ0zNe-JE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/KiEPvdjmZ2A"><img width="140px" src="https://i.ytimg.com/vi/KiEPvdjmZ2A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/KiEPvdjmZ2A">電影感漂移飄起來  #veo2 #漂移 #跑車 #甩尾 #4k</a><br/>Jun 29, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=dmiQ0zNe-JE"><img width="140px" src="https://i.ytimg.com/vi/dmiQ0zNe-JE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dmiQ0zNe-JE">當 Claude 3.7 擁有了手腳：實測 Augment Code 如何 MCP 操作 odoo 資料庫、瀏覽器</a><br/>Jun 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=4mPPDdVHxIg"><img width="140px" src="https://i.ytimg.com/vi/4mPPDdVHxIg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4mPPDdVHxIg">Django Ninja：Type Hints + Pydantic 驗證，打造 FastAPI 開發體驗！</a><br/>Jun 28, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/shorts/DFvXicXoiq4">蝦蝦 google 生氣了  #veo2</a><br/>Jun 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=bvKTd1f8BBc"><img width="140px" src="https://i.ytimg.com/vi/bvKTd1f8BBc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bvKTd1f8BBc">【AI 讀書會】查理·蒙格的智慧：思考框架、投資策略與人生哲學《窮查理的普通常識》</a><br/>Jun 26, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=CQcbfMSSK7c"><img width="140px" src="https://i.ytimg.com/vi/CQcbfMSSK7c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CQcbfMSSK7c">《金融怪傑》AI讀書會：揭秘華爾街頂級交易員的成功之道 | NotebookLM Podcast</a><br/>Jun 24, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
