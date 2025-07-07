@@ -31,16 +31,16 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=dmiQ0zNe-JE"><img width="140px" src="https://i.ytimg.com/vi/dmiQ0zNe-JE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=cH1pb_o7EPA"><img width="140px" src="https://i.ytimg.com/vi/cH1pb_o7EPA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cH1pb_o7EPA">Streamlit 教學, 搭配 Pyenv, UV 高效開發</a><br/>Jul 6, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/EIGqwyS1XeA"><img width="140px" src="https://i.ytimg.com/vi/EIGqwyS1XeA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/EIGqwyS1XeA">貓咪煎魚又不太會煎怎麼辦  #veo2 #貓咪 #cat</a><br/>Jul 6, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=dmiQ0zNe-JE"><img width="140px" src="https://i.ytimg.com/vi/dmiQ0zNe-JE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dmiQ0zNe-JE">當 Claude 3.7 擁有了手腳：實測 Augment Code 如何 MCP 操作 odoo 資料庫、瀏覽器</a><br/>Jul 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/SjeJdzOQnxU"><img width="140px" src="https://i.ytimg.com/vi/SjeJdzOQnxU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/SjeJdzOQnxU">童年的回憶  飛起來!!! #飛天小女警 #泡泡 #veo2</a><br/>Jul 4, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=6Ap9kCYZYrY"><img width="140px" src="https://i.ytimg.com/vi/6Ap9kCYZYrY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6Ap9kCYZYrY">【AI 讀書會】影響投資的非理性力量：多領域視角、偏誤解析與實戰案例《交易心態原理》</a><br/>Jul 4, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=bvKTd1f8BBc"><img width="140px" src="https://i.ytimg.com/vi/bvKTd1f8BBc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bvKTd1f8BBc">【AI 讀書會】查理·蒙格的智慧：思考框架、投資策略與人生哲學《窮查理的普通常識》</a><br/>Jul 1, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/KiEPvdjmZ2A"><img width="140px" src="https://i.ytimg.com/vi/KiEPvdjmZ2A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/KiEPvdjmZ2A">電影感漂移飄起來  #veo2 #漂移 #跑車 #甩尾 #4k</a><br/>Jun 29, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
