@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=s0vu0i7p9ho"><img width="140px" src="https://i.ytimg.com/vi/s0vu0i7p9ho/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/GijIeZZmzFo"><img width="140px" src="https://i.ytimg.com/vi/GijIeZZmzFo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/GijIeZZmzFo">倉鼠悠遊海洋：墨鏡與橙色救生圈的奇幻漂流  Kling AI 2.1 #klingai</a><br/>Jul 9, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=s0vu0i7p9ho"><img width="140px" src="https://i.ytimg.com/vi/s0vu0i7p9ho/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=s0vu0i7p9ho">【AI 讀書會】股票作手回憶錄：《炒股的智慧》華爾街巨擘 傑西 李佛摩 實戰傳奇</a><br/>Jul 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=6Ap9kCYZYrY"><img width="140px" src="https://i.ytimg.com/vi/6Ap9kCYZYrY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6Ap9kCYZYrY">【AI 讀書會】影響投資的非理性力量：多領域視角、偏誤解析與實戰案例《交易心態原理》</a><br/>Jul 8, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=cH1pb_o7EPA">Streamlit 教學, 搭配 Pyenv, UV 高效開發</a><br/>Jul 6, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/EIGqwyS1XeA"><img width="140px" src="https://i.ytimg.com/vi/EIGqwyS1XeA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/EIGqwyS1XeA">貓咪煎魚又不太會煎怎麼辦  #veo2 #貓咪 #cat</a><br/>Jul 6, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=dmiQ0zNe-JE"><img width="140px" src="https://i.ytimg.com/vi/dmiQ0zNe-JE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dmiQ0zNe-JE">當 Claude 3.7 擁有了手腳：實測 Augment Code 如何 MCP 操作 odoo 資料庫、瀏覽器</a><br/>Jul 5, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
