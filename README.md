@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=PBPKiPMxaQc"><img width="140px" src="https://i.ytimg.com/vi/PBPKiPMxaQc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/UEQ609ryuko"><img width="140px" src="https://i.ytimg.com/vi/UEQ609ryuko/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/UEQ609ryuko">可愛的狗狗  你看得出破綻嘛？ #veo2  #馬爾濟斯 #Maltese  #cute  #Puppy</a><br/>Jul 14, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=PBPKiPMxaQc"><img width="140px" src="https://i.ytimg.com/vi/PBPKiPMxaQc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PBPKiPMxaQc">gRPC Python 基礎全攻略：掌握 Protobuf定義以及編譯、HTTP⁄2 高效能 RPC 開發</a><br/>Jul 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=cH1pb_o7EPA"><img width="140px" src="https://i.ytimg.com/vi/cH1pb_o7EPA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cH1pb_o7EPA">Streamlit 教學, 搭配 Pyenv, UV 高效開發</a><br/>Jul 12, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/shorts/YF8iCxU1N7s">不屈的追逐：雨夜中的電影化奔跑 #veo2  #雨中跑步 #西裝 #電影感</a><br/>Jul 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/GijIeZZmzFo"><img width="140px" src="https://i.ytimg.com/vi/GijIeZZmzFo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/GijIeZZmzFo">倉鼠悠遊海洋：墨鏡與橙色救生圈的奇幻漂流  Kling AI 2.1 #klingai</a><br/>Jul 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=s0vu0i7p9ho"><img width="140px" src="https://i.ytimg.com/vi/s0vu0i7p9ho/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=s0vu0i7p9ho">【AI 讀書會】股票作手回憶錄：《炒股的智慧》華爾街巨擘 傑西 李佛摩 實戰傳奇</a><br/>Jul 9, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
