@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=K8hcpCtlmZo"><img width="140px" src="https://i.ytimg.com/vi/K8hcpCtlmZo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=O9R5VwbxQdc"><img width="140px" src="https://i.ytimg.com/vi/O9R5VwbxQdc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=O9R5VwbxQdc">Claude Code 技巧 教學 設定⁄指令⁄VSCode整合</a><br/>Jul 26, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=K8hcpCtlmZo"><img width="140px" src="https://i.ytimg.com/vi/K8hcpCtlmZo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=K8hcpCtlmZo">【AI讀書會】我靠交易賺大錢 - 從散戶到專職操盤手的真實獲利法則</a><br/>Jul 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/42eKy5loISw"><img width="140px" src="https://i.ytimg.com/vi/42eKy5loISw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/42eKy5loISw">狗狗在水中嬉戲&lpar;有聲音版本&rpar; #klingai #dog</a><br/>Jul 23, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=S19RGMlZ1go">【AI讀書會】高手的法則：金融傳奇大師的投資原則與禁忌</a><br/>Jul 22, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/R7PFbl3QBDc"><img width="140px" src="https://i.ytimg.com/vi/R7PFbl3QBDc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/R7PFbl3QBDc">慵懶貓咪邊吃西瓜邊曬太陽，夏日悠閒時光！  Kling AI 2.1 #klingai #cat</a><br/>Jul 20, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=O9R5VwbxQdc"><img width="140px" src="https://i.ytimg.com/vi/O9R5VwbxQdc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=O9R5VwbxQdc">Claude Code 技巧 教學 設定⁄指令⁄VSCode整合</a><br/>Jul 20, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
