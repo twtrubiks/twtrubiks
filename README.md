@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=K8hcpCtlmZo"><img width="140px" src="https://i.ytimg.com/vi/K8hcpCtlmZo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/NjJ5Tcvnhe8"><img width="140px" src="https://i.ytimg.com/vi/NjJ5Tcvnhe8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/NjJ5Tcvnhe8">猫咪DJ卡通派對 &lpar;veo2版本&rpar; #veo2 #cat #dj</a><br/>Jul 31, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=K8hcpCtlmZo"><img width="140px" src="https://i.ytimg.com/vi/K8hcpCtlmZo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=K8hcpCtlmZo">【AI讀書會】我靠交易賺大錢 - 從散戶到專職操盤手的真實獲利法則</a><br/>Jul 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/js6inz2u4CY"><img width="140px" src="https://i.ytimg.com/vi/js6inz2u4CY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/js6inz2u4CY">黑貓悠哉坐粉紅馬桶，翻閱報紙日常 #klingai #cat</a><br/>Jul 27, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=mQfWugUM7jw">【AI讀書會】賺錢，再自然不過：心理學造就90％股市行情</a><br/>Jul 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=O9R5VwbxQdc"><img width="140px" src="https://i.ytimg.com/vi/O9R5VwbxQdc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=O9R5VwbxQdc">Claude Code 技巧 教學 設定⁄指令⁄VSCode整合</a><br/>Jul 26, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/42eKy5loISw"><img width="140px" src="https://i.ytimg.com/vi/42eKy5loISw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/42eKy5loISw">狗狗在水中嬉戲&lpar;有聲音版本&rpar; #klingai #dog</a><br/>Jul 23, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
