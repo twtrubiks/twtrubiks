@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=tQYbuCZjojY"><img width="140px" src="https://i.ytimg.com/vi/tQYbuCZjojY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=9FOHZo7Gc28"><img width="140px" src="https://i.ytimg.com/vi/9FOHZo7Gc28/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9FOHZo7Gc28">別再用 git stash 了！受 Claude 啟發的 Git Worktree，實現真正的平行開發</a><br/>Aug 3, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=tQYbuCZjojY"><img width="140px" src="https://i.ytimg.com/vi/tQYbuCZjojY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tQYbuCZjojY">Odoo 18 RESTful API 多種建立方法比較與實踐</a><br/>Aug 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/NjJ5Tcvnhe8"><img width="140px" src="https://i.ytimg.com/vi/NjJ5Tcvnhe8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/NjJ5Tcvnhe8">猫咪DJ卡通派對 &lpar;veo2版本&rpar; #veo2 #cat #dj</a><br/>Jul 31, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=K8hcpCtlmZo">【AI讀書會】我靠交易賺大錢 - 從散戶到專職操盤手的真實獲利法則</a><br/>Jul 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/js6inz2u4CY"><img width="140px" src="https://i.ytimg.com/vi/js6inz2u4CY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/js6inz2u4CY">黑貓悠哉坐粉紅馬桶，翻閱報紙日常 #klingai #cat</a><br/>Jul 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=mQfWugUM7jw"><img width="140px" src="https://i.ytimg.com/vi/mQfWugUM7jw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mQfWugUM7jw">【AI讀書會】賺錢，再自然不過：心理學造就90％股市行情</a><br/>Jul 27, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
