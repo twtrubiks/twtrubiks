@@ -31,12 +31,12 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=w5IVHGoD-Rg"><img width="140px" src="https://i.ytimg.com/vi/w5IVHGoD-Rg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=9FOHZo7Gc28"><img width="140px" src="https://i.ytimg.com/vi/9FOHZo7Gc28/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9FOHZo7Gc28">別再用 git stash 了！受 Claude 啟發的 Git Worktree，實現真正的平行開發</a><br/>Aug 9, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=w5IVHGoD-Rg"><img width="140px" src="https://i.ytimg.com/vi/w5IVHGoD-Rg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=w5IVHGoD-Rg">【AI讀書會】交易的真相：從1000到1.83億</a><br/>Aug 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=mQfWugUM7jw"><img width="140px" src="https://i.ytimg.com/vi/mQfWugUM7jw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mQfWugUM7jw">【AI讀書會】賺錢，再自然不過：心理學造就90％股市行情</a><br/>Aug 5, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=9FOHZo7Gc28"><img width="140px" src="https://i.ytimg.com/vi/9FOHZo7Gc28/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9FOHZo7Gc28">別再用 git stash 了！受 Claude 啟發的 Git Worktree，實現真正的平行開發</a><br/>Aug 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tQYbuCZjojY"><img width="140px" src="https://i.ytimg.com/vi/tQYbuCZjojY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tQYbuCZjojY">Odoo 18 RESTful API 多種建立方法比較與實踐</a><br/>Aug 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/NjJ5Tcvnhe8"><img width="140px" src="https://i.ytimg.com/vi/NjJ5Tcvnhe8/mqdefault.jpg"></a></td>
