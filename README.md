@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=AGO3PyMTqds"><img width="140px" src="https://i.ytimg.com/vi/AGO3PyMTqds/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=mEwA5DeSFqU"><img width="140px" src="https://i.ytimg.com/vi/mEwA5DeSFqU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mEwA5DeSFqU">LLM 輸出格式總是很亂？Pydantic AI 登場，從此告別手動解析與 try catch！</a><br/>Aug 17, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=AGO3PyMTqds"><img width="140px" src="https://i.ytimg.com/vi/AGO3PyMTqds/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AGO3PyMTqds">Git Log：資料夾移動後 Log 消失？用   follow 找回檔案歷史！</a><br/>Aug 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Hg581QmjN-Y"><img width="140px" src="https://i.ytimg.com/vi/Hg581QmjN-Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Hg581QmjN-Y">【AI讀書會】你也可以成為股票操作高手：一位成功投資人不平凡的操作紀錄</a><br/>Aug 13, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=w5IVHGoD-Rg">【AI讀書會】交易的真相：從1000到1.83億</a><br/>Aug 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=9FOHZo7Gc28"><img width="140px" src="https://i.ytimg.com/vi/9FOHZo7Gc28/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9FOHZo7Gc28">別再用 git stash 了！受 Claude 啟發的 Git Worktree，實現真正的平行開發</a><br/>Aug 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=mQfWugUM7jw"><img width="140px" src="https://i.ytimg.com/vi/mQfWugUM7jw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mQfWugUM7jw">【AI讀書會】賺錢，再自然不過：心理學造就90％股市行情</a><br/>Aug 5, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
