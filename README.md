@@ -31,12 +31,12 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=6QSfqTymeXc"><img width="140px" src="https://i.ytimg.com/vi/6QSfqTymeXc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=DpS4JUCBco0"><img width="140px" src="https://i.ytimg.com/vi/DpS4JUCBco0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DpS4JUCBco0">【AI讀書會】反市場：JG股市操作原理 看對 下大 抱住</a><br/>Sep 9, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=6QSfqTymeXc"><img width="140px" src="https://i.ytimg.com/vi/6QSfqTymeXc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6QSfqTymeXc">YAML Anchors  與 Docker Compose 實戰教學：告別重複設定！</a><br/>Sep 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=oR_wM8rQKYI"><img width="140px" src="https://i.ytimg.com/vi/oR_wM8rQKYI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oR_wM8rQKYI">Odoo + Docker 進階技巧：善用 override.yml 批次更新多個 DB</a><br/>Sep 6, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=DpS4JUCBco0"><img width="140px" src="https://i.ytimg.com/vi/DpS4JUCBco0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DpS4JUCBco0">【AI讀書會】反市場：JG股市操作原理 看對 下大 抱住</a><br/>Sep 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=H24VDD-nVAk"><img width="140px" src="https://i.ytimg.com/vi/H24VDD-nVAk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H24VDD-nVAk">【AI讀書會】灰階思考：黑白之間都是灰，找到無限價值的所在</a><br/>Sep 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=7bHxgye4Q0Y"><img width="140px" src="https://i.ytimg.com/vi/7bHxgye4Q0Y/mqdefault.jpg"></a></td>
