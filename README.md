@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=ckEHImNHxL4"><img width="140px" src="https://i.ytimg.com/vi/ckEHImNHxL4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=2W3YPz47oLs"><img width="140px" src="https://i.ytimg.com/vi/2W3YPz47oLs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2W3YPz47oLs">告別手動測試！ 全新 CLI 指令 &amp; Odoo 19 Tour Recorder 實戰教學 #odoo2025 #odoo19 #TourRecorder #testing</a><br/>Oct 18, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ckEHImNHxL4"><img width="140px" src="https://i.ytimg.com/vi/ckEHImNHxL4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ckEHImNHxL4">Odoo 19 更新！體驗極速離線快取 &amp; 內建互動式 API 文件 #odoo2025 #indexedDB #RuntimeDoc</a><br/>Oct 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=edWMCN6z6nw"><img width="140px" src="https://i.ytimg.com/vi/edWMCN6z6nw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=edWMCN6z6nw">Odoo 19 JSON 2 API 完整教學！告別 XML RPC 迎接新世代</a><br/>Sep 23, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=6QSfqTymeXc">YAML Anchors  與 Docker Compose 實戰教學：告別重複設定！</a><br/>Sep 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=DpS4JUCBco0"><img width="140px" src="https://i.ytimg.com/vi/DpS4JUCBco0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DpS4JUCBco0">【AI讀書會】反市場：JG股市操作原理 看對 下大 抱住</a><br/>Sep 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=oR_wM8rQKYI"><img width="140px" src="https://i.ytimg.com/vi/oR_wM8rQKYI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oR_wM8rQKYI">Odoo + Docker 進階技巧：善用 override.yml 批次更新多個 DB</a><br/>Sep 6, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
