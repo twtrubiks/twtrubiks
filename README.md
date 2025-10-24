@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=2W3YPz47oLs"><img width="140px" src="https://i.ytimg.com/vi/2W3YPz47oLs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2W3YPz47oLs">告別手動測試！ 全新 CLI 指令 &amp; Odoo 19 Tour Recorder 實戰教學 #odoo2025 #odoo19 #TourRecorder #testing</a><br/>Oct 18, 2025</td></tr>
+<td><a href="https://www.youtube.com/watch?v=2W3YPz47oLs">告別手動測試！ 全新 CLI 指令 &amp; Odoo 19 Tour Recorder 實戰教學 #odoo2025 #odoo19 #TourRecorder #testing</a><br/>Oct 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ckEHImNHxL4"><img width="140px" src="https://i.ytimg.com/vi/ckEHImNHxL4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ckEHImNHxL4">Odoo 19 更新！體驗極速離線快取 &amp; 內建互動式 API 文件 #odoo2025 #indexedDB #RuntimeDoc</a><br/>Oct 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=edWMCN6z6nw"><img width="140px" src="https://i.ytimg.com/vi/edWMCN6z6nw/mqdefault.jpg"></a></td>
