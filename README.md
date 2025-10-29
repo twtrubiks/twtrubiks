@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=aJ0VtSOvkhM"><img width="140px" src="https://i.ytimg.com/vi/aJ0VtSOvkhM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aJ0VtSOvkhM">Claude Opus 新限制來襲！$200 方案不再吃到飽，開發者必學 /model opusplan 聰明用法！</a><br/>Oct 27, 2025</td></tr>
+<td><a href="https://www.youtube.com/watch?v=aJ0VtSOvkhM">Claude Opus 新限制來襲！$200 方案不再吃到飽，開發者必學 /model opusplan 聰明用法！</a><br/>Oct 28, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=2W3YPz47oLs"><img width="140px" src="https://i.ytimg.com/vi/2W3YPz47oLs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2W3YPz47oLs">告別手動測試！ 全新 CLI 指令 &amp; Odoo 19 Tour Recorder 實戰教學 #odoo2025 #odoo19 #TourRecorder #testing</a><br/>Oct 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ckEHImNHxL4"><img width="140px" src="https://i.ytimg.com/vi/ckEHImNHxL4/mqdefault.jpg"></a></td>
