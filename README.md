@@ -31,10 +31,10 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Ml5qTQymalY"><img width="140px" src="https://i.ytimg.com/vi/Ml5qTQymalY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ml5qTQymalY">Claude Skills 實戰教學 Skill Seekers 打造你的 Odoo 專家</a><br/>Nov 6, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=8IZLzCM-Gho"><img width="140px" src="https://i.ytimg.com/vi/8IZLzCM-Gho/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=8IZLzCM-Gho"><img width="140px" src="https://i.ytimg.com/vi/8IZLzCM-Gho/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8IZLzCM-Gho">雲端 AI 編碼大戰！Claude Code Web &lpar;Sonnet 4.5&rpar;  VS Jules &lpar;Gemini 2.5 Pro&rpar;</a><br/>Nov 6, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=Ml5qTQymalY"><img width="140px" src="https://i.ytimg.com/vi/Ml5qTQymalY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ml5qTQymalY">Claude Skills 實戰教學 Skill Seekers 打造你的 Odoo 專家</a><br/>Nov 6, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=-CirpbnUDjw"><img width="140px" src="https://i.ytimg.com/vi/-CirpbnUDjw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-CirpbnUDjw">Chrome DevTools MCP 實測 Claude AI 自動化：Odoo 打單 + PTT 爬蟲圖片下載！ Sonnet 4.5</a><br/>Nov 4, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=aJ0VtSOvkhM"><img width="140px" src="https://i.ytimg.com/vi/aJ0VtSOvkhM/mqdefault.jpg"></a></td>
