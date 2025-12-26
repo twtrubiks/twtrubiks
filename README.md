@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=ZwnoCa0qHIg"><img width="140px" src="https://i.ytimg.com/vi/ZwnoCa0qHIg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=ebrpVisRAPQ"><img width="140px" src="https://i.ytimg.com/vi/ebrpVisRAPQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ebrpVisRAPQ">Claude Code 寫 4 萬行交友軟體   配對演算法怎麼做 #交友軟體 #ClaudeCode #配對演算法 #skills #Vue3 #Python</a><br/>Dec 26, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ZwnoCa0qHIg"><img width="140px" src="https://i.ytimg.com/vi/ZwnoCa0qHIg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZwnoCa0qHIg">AI 自動測試教學DevTools MCP + Claude in Chrome #Claude #ChromeDevTools #AI自動測試 #Chrome</a><br/>Dec 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=p8MoOV0EopQ"><img width="140px" src="https://i.ytimg.com/vi/p8MoOV0EopQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=p8MoOV0EopQ">為什麼 AI 總是附和你？Anthropic 談 MCP 開源、模型缺陷與教育未來  #MCP開源協定 #AI諂媚效應 #Anthropic #AI教育未來</a><br/>Dec 22, 2025</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=xsDk7c6NjK0">聊聊 Anthropic 收購 Bun 以及 Linus Torvalds 對 PC 以及 AI 看法</a><br/>Dec 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=5JusqZqnhJI"><img width="140px" src="https://i.ytimg.com/vi/5JusqZqnhJI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5JusqZqnhJI">Claude for Chrome 幫你操作瀏覽器：6 個有趣應用 Opus 4.5 #Claude #ChatGPT #Odoo #NotebookLM #驗證碼</a><br/>Nov 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=aS0n5ipAGJE"><img width="140px" src="https://i.ytimg.com/vi/aS0n5ipAGJE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aS0n5ipAGJE">沒朋友幫你畫重點？NotebookLM 比朋友還可靠 #notebooklm</a><br/>Nov 26, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
