@@ -34,7 +34,7 @@
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=aEnZB-JvwmM"><img width="140px" src="https://i.ytimg.com/vi/aEnZB-JvwmM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aEnZB-JvwmM">Claude Code LSP Plugin 教學  grep vs LSP 程式碼搜尋大對決 #LSP #ClaudeCode #Pyright #Plugin #Serena</a><br/>Jan 12, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=wGbUMg7-zXc"><img width="140px" src="https://i.ytimg.com/vi/wGbUMg7-zXc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wGbUMg7-zXc">Anthropic 官方 Plugin！Claude Code Ralph Loop 讓 AI 24小時自動寫程式  #Claude #RalphLoop #Plugin #Hooks</a><br/>Jan 1, 2026</td></tr>
+<td><a href="https://www.youtube.com/watch?v=wGbUMg7-zXc">Anthropic 黑科技！Claude Code Ralph Loop 睡一覺醒來程式寫好了  #ClaudeCode #Anthropic #RalphLoop #Plugin #Hooks</a><br/>Jan 1, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ebrpVisRAPQ"><img width="140px" src="https://i.ytimg.com/vi/ebrpVisRAPQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ebrpVisRAPQ">Claude Code 寫 4 萬行交友軟體   配對演算法怎麼做 #交友軟體 #ClaudeCode #配對演算法 #skills #Vue3 #Python</a><br/>Dec 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=p8MoOV0EopQ"><img width="140px" src="https://i.ytimg.com/vi/p8MoOV0EopQ/mqdefault.jpg"></a></td>
