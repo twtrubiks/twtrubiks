@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=aEnZB-JvwmM"><img width="140px" src="https://i.ytimg.com/vi/aEnZB-JvwmM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=3FaeoxD41js"><img width="140px" src="https://i.ytimg.com/vi/3FaeoxD41js/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3FaeoxD41js">Odoo 19 AI 架構拆解｜優缺點 + 實測 Demo #Odoo #RAG #ERP #架構 #向量資料庫</a><br/>Jan 19, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=aEnZB-JvwmM"><img width="140px" src="https://i.ytimg.com/vi/aEnZB-JvwmM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aEnZB-JvwmM">Claude Code LSP Plugin 教學  grep vs LSP 程式碼搜尋大對決 #LSP #ClaudeCode #Pyright #Plugin #Serena</a><br/>Jan 12, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=wGbUMg7-zXc"><img width="140px" src="https://i.ytimg.com/vi/wGbUMg7-zXc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wGbUMg7-zXc">Anthropic 黑科技！Claude Code Ralph Loop 睡一覺醒來程式寫好了  #ClaudeCode #Anthropic #RalphLoop #Plugin #Hooks</a><br/>Jan 1, 2026</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=ebrpVisRAPQ">Claude Code 寫 4 萬行交友軟體   配對演算法怎麼做 #交友軟體 #ClaudeCode #配對演算法 #skills #Vue3 #Python</a><br/>Dec 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=p8MoOV0EopQ"><img width="140px" src="https://i.ytimg.com/vi/p8MoOV0EopQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=p8MoOV0EopQ">為什麼 AI 總是附和你？Anthropic 談 MCP 開源、模型缺陷與教育未來  #MCP開源協定 #AI諂媚效應 #Anthropic #AI教育未來</a><br/>Dec 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ZwnoCa0qHIg"><img width="140px" src="https://i.ytimg.com/vi/ZwnoCa0qHIg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZwnoCa0qHIg">AI 自動測試教學DevTools MCP + Claude in Chrome #Claude #ChromeDevTools #AI自動測試 #Chrome</a><br/>Dec 23, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
