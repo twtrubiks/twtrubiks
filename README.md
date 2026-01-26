@@ -34,7 +34,7 @@
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JhAudIIII3M"><img width="140px" src="https://i.ytimg.com/vi/JhAudIIII3M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JhAudIIII3M">MCP Server 自己做！Odoo 19 + FastMCP 完整開發教學 #MCP #Odoo #FastMCP #Claude #Gemini</a><br/>Jan 25, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=3FaeoxD41js"><img width="140px" src="https://i.ytimg.com/vi/3FaeoxD41js/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3FaeoxD41js">Odoo 19 AI 架構拆解｜優缺點 + 實測 Demo #Odoo #RAG #ERP #架構 #向量資料庫</a><br/>Jan 19, 2026</td></tr>
+<td><a href="https://www.youtube.com/watch?v=3FaeoxD41js">Odoo 19 AI 好用嗎？Agent 架構優缺點一次看   #Odoo #RAG #ERP #架構 #向量資料庫</a><br/>Jan 19, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=aEnZB-JvwmM"><img width="140px" src="https://i.ytimg.com/vi/aEnZB-JvwmM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aEnZB-JvwmM">Claude Code LSP Plugin 教學  grep vs LSP 程式碼搜尋大對決 #LSP #ClaudeCode #Pyright #Plugin #Serena</a><br/>Jan 12, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=wGbUMg7-zXc"><img width="140px" src="https://i.ytimg.com/vi/wGbUMg7-zXc/mqdefault.jpg"></a></td>
