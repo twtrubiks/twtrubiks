@@ -31,16 +31,16 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JhAudIIII3M"><img width="140px" src="https://i.ytimg.com/vi/JhAudIIII3M/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=UGR7Z4yKGhE"><img width="140px" src="https://i.ytimg.com/vi/UGR7Z4yKGhE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UGR7Z4yKGhE">100 行 Python 打造簡易 Moltbot！Discord Bot × Claude Code 實作 #Moltbot #Claude #Discord #Clawdbot #Python</a><br/>Jan 28, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=sEIwJEdLaBg"><img width="140px" src="https://i.ytimg.com/vi/sEIwJEdLaBg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sEIwJEdLaBg">不會設計也能做漂亮網頁！UI UX Pro Max Skill x Claude Code 教學 #Claude #Skill #UIUXProMax #UX #UI</a><br/>Jan 28, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=JhAudIIII3M"><img width="140px" src="https://i.ytimg.com/vi/JhAudIIII3M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JhAudIIII3M">MCP Server 自己做！Odoo 19 + FastMCP 完整開發教學 #MCP #Odoo #FastMCP #Claude #Gemini</a><br/>Jan 25, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=3FaeoxD41js"><img width="140px" src="https://i.ytimg.com/vi/3FaeoxD41js/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3FaeoxD41js">Odoo 19 AI 好用嗎？Agent 架構優缺點一次看   #Odoo #RAG #ERP #架構 #向量資料庫</a><br/>Jan 19, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=aEnZB-JvwmM"><img width="140px" src="https://i.ytimg.com/vi/aEnZB-JvwmM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aEnZB-JvwmM">Claude Code LSP Plugin 教學  grep vs LSP 程式碼搜尋大對決 #LSP #ClaudeCode #Pyright #Plugin #Serena</a><br/>Jan 12, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=wGbUMg7-zXc"><img width="140px" src="https://i.ytimg.com/vi/wGbUMg7-zXc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wGbUMg7-zXc">Anthropic 黑科技！Claude Code Ralph Loop 睡一覺醒來程式寫好了  #ClaudeCode #Anthropic #RalphLoop #Plugin #Hooks</a><br/>Jan 1, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ebrpVisRAPQ"><img width="140px" src="https://i.ytimg.com/vi/ebrpVisRAPQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ebrpVisRAPQ">Claude Code 寫 4 萬行交友軟體   配對演算法怎麼做 #交友軟體 #ClaudeCode #配對演算法 #skills #Vue3 #Python</a><br/>Dec 30, 2025</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
