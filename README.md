@@ -31,7 +31,9 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=2UwnqbQsRyY"><img width="140px" src="https://i.ytimg.com/vi/2UwnqbQsRyY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=X7LbY8hEGQg"><img width="140px" src="https://i.ytimg.com/vi/X7LbY8hEGQg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=X7LbY8hEGQg">Odoo AI 原生不支援 Claude！用訂閱版 CLI 自己接上去 #Odoo #Claude #AI #LLM整合 #ERP</a><br/>Feb 5, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=2UwnqbQsRyY"><img width="140px" src="https://i.ytimg.com/vi/2UwnqbQsRyY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2UwnqbQsRyY">OpenClaw 啟發 - Discord + Claude AI 整合實戰 #Claude #DiscordBot #OpenClaw #Python #教學</a><br/>Feb 2, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=UGR7Z4yKGhE"><img width="140px" src="https://i.ytimg.com/vi/UGR7Z4yKGhE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UGR7Z4yKGhE">一支影片看懂 Moltbot：架構、爭議、自己做一個 #Moltbot #Claude #Discord #Clawdbot #Python</a><br/>Jan 28, 2026</td></tr>
@@ -39,8 +41,6 @@
 <td><a href="https://www.youtube.com/watch?v=sEIwJEdLaBg">後端工程師的前端救星！UI UX Pro Max Skill 完整實測 #Claude #Skill #UIUXProMax #UX #UI</a><br/>Jan 28, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JhAudIIII3M"><img width="140px" src="https://i.ytimg.com/vi/JhAudIIII3M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JhAudIIII3M">MCP Server 自己做！Odoo 19 + FastMCP 完整開發教學 #MCP #Odoo #FastMCP #Claude #Gemini</a><br/>Jan 25, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=3FaeoxD41js"><img width="140px" src="https://i.ytimg.com/vi/3FaeoxD41js/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3FaeoxD41js">Odoo 19 AI 好用嗎？Agent 架構優缺點一次看   #Odoo #RAG #ERP #架構 #向量資料庫</a><br/>Jan 19, 2026</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
