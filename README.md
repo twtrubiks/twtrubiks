@@ -31,16 +31,16 @@
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=yLgE0-dRNfk"><img width="140px" src="https://i.ytimg.com/vi/yLgE0-dRNfk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yLgE0-dRNfk">一行指令操作 Google Workspace！gws CLI 安裝、認證、Sheets 完整教學 #gws #GoogleWorkspace #ClaudeCode #Rust #Sheets</a><br/>Mar 12, 2026</td></tr>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=yuqyR9tafBs"><img width="140px" src="https://i.ytimg.com/vi/yuqyR9tafBs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yuqyR9tafBs">Claude Code 隱藏功能大公開！排程執行、自動記憶、程式碼審查全都內建 #ClaudeCode #Loop #Simplify #AutoMemory #Anthropic</a><br/>Mar 16, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=yLgE0-dRNfk"><img width="140px" src="https://i.ytimg.com/vi/yLgE0-dRNfk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yLgE0-dRNfk">Claude Code 也能寄信、查行事曆？gws CLI 一個工具搞定 Google Workspace #gwsCLI #ClaudeCode #gemini #GoogleSheets</a><br/>Mar 12, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=P2Oovw_YZkY"><img width="140px" src="https://i.ytimg.com/vi/P2Oovw_YZkY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=P2Oovw_YZkY">Discord 語音訊息直接變 AI 回覆！Groq Whisper + Claude Code 完整整合實測 #ClaudeCode #Groq #Whisper #Discord #STT</a><br/>Mar 1, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=LrynAU0gYFo"><img width="140px" src="https://i.ytimg.com/vi/LrynAU0gYFo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LrynAU0gYFo">Claude Code 三大隱藏功能 Agent Teams、Fork、Rules 一次學會 #ClaudeCode #AgentTeams #Fork #Rules #Anthropic</a><br/>Feb 27, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Lewi9HtsVW4"><img width="140px" src="https://i.ytimg.com/vi/Lewi9HtsVW4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Lewi9HtsVW4">手機也能寫程式！Claude Code Remote Control 完整實測 #ClaudeCode #RemoteControl #Anthropic #OpenClaw #Mobile</a><br/>Feb 26, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=X7LbY8hEGQg"><img width="140px" src="https://i.ytimg.com/vi/X7LbY8hEGQg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=X7LbY8hEGQg">Odoo AI 原生不支援 Claude！用訂閱版 CLI 自己接上去 #Odoo #Claude #AI #LLM整合 #ERP</a><br/>Feb 5, 2026</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
