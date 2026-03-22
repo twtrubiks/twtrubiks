@@ -32,7 +32,7 @@
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=gJRUDBTmYAA"><img width="140px" src="https://i.ytimg.com/vi/gJRUDBTmYAA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gJRUDBTmYAA">AI 寫的 Code 三個月後看不懂？OpenSpec 幫你記住每個決策 #OpenSpec #SDD #ClaudeCode #AI開發 #輕量 #vibe-coding</a><br/>Mar 19, 2026</td></tr>
+<td><a href="https://www.youtube.com/watch?v=gJRUDBTmYAA">用 OpenSpec 做了一個公車追蹤器！Spec-Driven Development 完整心得 #OpenSpec #SDD #ClaudeCode #輕量 #vibe-coding</a><br/>Mar 19, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yuqyR9tafBs"><img width="140px" src="https://i.ytimg.com/vi/yuqyR9tafBs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yuqyR9tafBs">Claude Code 越用越聰明的秘密！Auto Memory + 四個你沒用過的內建功能 #ClaudeCode #Anthropic #AutoMemory #Loop #Simplify</a><br/>Mar 16, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yLgE0-dRNfk"><img width="140px" src="https://i.ytimg.com/vi/yLgE0-dRNfk/mqdefault.jpg"></a></td>
