@@ -54,7 +54,9 @@ height="30"/></a>
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Zuyzh10D1vI"><img width="140px" src="https://i.ytimg.com/vi/Zuyzh10D1vI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=G3q-cEtVv8g"><img width="140px" src="https://i.ytimg.com/vi/G3q-cEtVv8g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=G3q-cEtVv8g">用了一個多月！我從 VS Code 轉到 Zed 的真實心得 #Zed #VSCode #Python #編輯器  #效能</a><br/>May 30, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=Zuyzh10D1vI"><img width="140px" src="https://i.ytimg.com/vi/Zuyzh10D1vI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zuyzh10D1vI">你其實已經在用 Harness！Claude Code 閉環迴圈開發才是重點 + Codex Review #ClaudeCode #Harness #Codex #Anthropic #閉環</a><br/>Apr 17, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WnYzUr_1IXc"><img width="140px" src="https://i.ytimg.com/vi/WnYzUr_1IXc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WnYzUr_1IXc">從 Claude Code 洩漏原始碼學到的事：快取省 90%、不用向量資料庫 #Claude #軟體工程 #API成本 #Anthropic</a><br/>Apr 6, 2026</td></tr>
@@ -62,8 +64,6 @@ height="30"/></a>
 <td><a href="https://www.youtube.com/watch?v=JcDkIbQaLLg">Claude Code Channels 實測！讓 Odoo ERP 直接跟 Claude 對話 #ClaudeCode #Channels #Odoo #MCP #ERP</a><br/>Mar 28, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gJRUDBTmYAA"><img width="140px" src="https://i.ytimg.com/vi/gJRUDBTmYAA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gJRUDBTmYAA">用 OpenSpec 做了一個公車追蹤器！Spec-Driven Development 完整心得 #OpenSpec #SDD #ClaudeCode #輕量 #vibe-coding</a><br/>Mar 19, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=yuqyR9tafBs"><img width="140px" src="https://i.ytimg.com/vi/yuqyR9tafBs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yuqyR9tafBs">Claude Code 越用越聰明的秘密！Auto Memory + 四個你沒用過的內建功能 #ClaudeCode #Anthropic #AutoMemory #Loop #Simplify</a><br/>Mar 16, 2026</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
