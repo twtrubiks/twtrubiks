@@ -59,7 +59,7 @@ height="30"/></a>
 <tr><td><a href="https://www.youtube.com/watch?v=pI-AX98dlvY"><img width="140px" src="https://i.ytimg.com/vi/pI-AX98dlvY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pI-AX98dlvY">Context 再也不會爆！Claude Code 動態工作流一次指揮上百個 Agent #ClaudeCode #Workflows #Anthropic #Workflow #agent</a><br/>May 31, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=G3q-cEtVv8g"><img width="140px" src="https://i.ytimg.com/vi/G3q-cEtVv8g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=G3q-cEtVv8g">用了一個多月！我從 VS Code 轉到 Zed 的真實心得 #Zed #VSCode #Python #編輯器  #效能</a><br/>May 30, 2026</td></tr>
+<td><a href="https://www.youtube.com/watch?v=G3q-cEtVv8g">後端工程師的新選擇？Zed vs VS Code 完整實測（含踩坑筆記）#Zed #VSCode #Python #IDE #Git</a><br/>May 30, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Zuyzh10D1vI"><img width="140px" src="https://i.ytimg.com/vi/Zuyzh10D1vI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zuyzh10D1vI">你其實已經在用 Harness！Claude Code 閉環迴圈開發才是重點 + Codex Review #ClaudeCode #Harness #Codex #Anthropic #閉環</a><br/>Apr 17, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WnYzUr_1IXc"><img width="140px" src="https://i.ytimg.com/vi/WnYzUr_1IXc/mqdefault.jpg"></a></td>
