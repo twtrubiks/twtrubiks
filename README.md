@@ -57,7 +57,7 @@ height="30"/></a>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=BfxDAO1M-Vc"><img width="140px" src="https://i.ytimg.com/vi/BfxDAO1M-Vc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BfxDAO1M-Vc">不用再切 Tab！Claude Code Agent View 一個畫面指揮多個 AI #ClaudeCode #AgentView #Anthropic #Parallel #Subagents</a><br/>Jun 1, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=pI-AX98dlvY"><img width="140px" src="https://i.ytimg.com/vi/pI-AX98dlvY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pI-AX98dlvY">Context 再也不會爆！Claude Code 動態工作流一次指揮上百個 Agent #ClaudeCode #Workflows #Anthropic #Workflow #agent</a><br/>May 31, 2026</td></tr>
+<td><a href="https://www.youtube.com/watch?v=pI-AX98dlvY">11 天寫 75 萬行程式碼！Claude Code Dynamic Workflows 動態工作流完整實測 #Workflows #JavaScript #ultracode #token怪獸</a><br/>May 31, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=G3q-cEtVv8g"><img width="140px" src="https://i.ytimg.com/vi/G3q-cEtVv8g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=G3q-cEtVv8g">後端工程師的新選擇？Zed vs VS Code 完整實測（含踩坑筆記）#Zed #VSCode #Python #IDE #Git</a><br/>May 30, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Zuyzh10D1vI"><img width="140px" src="https://i.ytimg.com/vi/Zuyzh10D1vI/mqdefault.jpg"></a></td>
