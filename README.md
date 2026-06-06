@@ -54,7 +54,9 @@ height="30"/></a>
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=BfxDAO1M-Vc"><img width="140px" src="https://i.ytimg.com/vi/BfxDAO1M-Vc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Ykf6apBwVNQ"><img width="140px" src="https://i.ytimg.com/vi/Ykf6apBwVNQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ykf6apBwVNQ">Claude Code 五個對話神技！branch、fork、history、copy、Focus 一次學會 #ClaudeCode #Anthropic #Fork #FocusView #copy</a><br/>Jun 6, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=BfxDAO1M-Vc"><img width="140px" src="https://i.ytimg.com/vi/BfxDAO1M-Vc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BfxDAO1M-Vc">不用再切 Tab！Claude Code Agent View 一個畫面指揮多個 AI #ClaudeCode #AgentView #Anthropic #Parallel #Subagents</a><br/>Jun 1, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=pI-AX98dlvY"><img width="140px" src="https://i.ytimg.com/vi/pI-AX98dlvY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pI-AX98dlvY">11 天寫 75 萬行程式碼！Claude Code Dynamic Workflows 動態工作流完整實測 #Workflows #JavaScript #ultracode #token怪獸</a><br/>May 31, 2026</td></tr>
@@ -62,8 +64,6 @@ height="30"/></a>
 <td><a href="https://www.youtube.com/watch?v=G3q-cEtVv8g">後端工程師的新選擇？Zed vs VS Code 完整實測（含踩坑筆記）#Zed #VSCode #Python #IDE #Git</a><br/>May 30, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Zuyzh10D1vI"><img width="140px" src="https://i.ytimg.com/vi/Zuyzh10D1vI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zuyzh10D1vI">你其實已經在用 Harness！Claude Code 閉環迴圈開發才是重點 + Codex Review #ClaudeCode #Harness #Codex #Anthropic #閉環</a><br/>Apr 17, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=WnYzUr_1IXc"><img width="140px" src="https://i.ytimg.com/vi/WnYzUr_1IXc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WnYzUr_1IXc">從 Claude Code 洩漏原始碼學到的事：快取省 90%、不用向量資料庫 #Claude #軟體工程 #API成本 #Anthropic</a><br/>Apr 6, 2026</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
