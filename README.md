@@ -55,7 +55,7 @@ height="30"/></a>
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Ykf6apBwVNQ"><img width="140px" src="https://i.ytimg.com/vi/Ykf6apBwVNQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ykf6apBwVNQ">Claude Code 五個對話神技！branch、fork、history、copy、Focus 一次學會 #ClaudeCode #Anthropic #Fork #FocusView #copy</a><br/>Jun 6, 2026</td></tr>
+<td><a href="https://www.youtube.com/watch?v=Ykf6apBwVNQ">Claude Code 老手才知道的對話技巧！岔開、派分身、搜歷史 #ClaudeCode #Anthropic #Fork #radio #FocusView</a><br/>Jun 6, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=BfxDAO1M-Vc"><img width="140px" src="https://i.ytimg.com/vi/BfxDAO1M-Vc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BfxDAO1M-Vc">不用再切 Tab！Claude Code Agent View 一個畫面指揮多個 AI #ClaudeCode #AgentView #Anthropic #Parallel #Subagents</a><br/>Jun 1, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=pI-AX98dlvY"><img width="140px" src="https://i.ytimg.com/vi/pI-AX98dlvY/mqdefault.jpg"></a></td>
