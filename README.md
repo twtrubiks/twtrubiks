@@ -25,12 +25,14 @@
 <a href="https://www.python.org" target="_blank"><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"/></a>
 <a href="https://www.odoo.com/" target="_blank"><img
-src="https://odoocdn.com/openerp_website/static/src/img/2016/logos/odoo_logo.svg" alt="odoo" height="30"/></a>
+src="https://cdn.imgpile.com/f/O4pCMx3_xl.png" alt="odoo" height="30"/></a>
 <a href="https://zed.dev/" target="_blank"><img
-src="https://zed.dev/_next/static/media/logo_blue_no_gradient_padded.5a5468ff.svg"
+src="https://cdn.imgpile.com/f/AimB1k2_xl.png"
 alt="zed" height="30"/></a>    
 <a href="https://www.linux.org/" target="_blank"><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30"/></a>
+<a href="https://claude.ai/" target="_blank"><img
+src="https://cdn.imgpile.com/f/cHdzqyx_xl.png" alt="Claude" height="30"/></a>
 <a href="https://www.docker.com/" target="_blank"><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="30"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"
