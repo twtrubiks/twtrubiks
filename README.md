@@ -56,16 +56,16 @@ height="30"/></a>
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Ykf6apBwVNQ"><img width="140px" src="https://i.ytimg.com/vi/Ykf6apBwVNQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=j9wuy120J9c"><img width="140px" src="https://i.ytimg.com/vi/j9wuy120J9c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=j9wuy120J9c">Odoo 19.4 AI 架構全換血！順便讓 Odoo 自己變成 MCP Server #Odoo #MCP #AIAgent #AgentSkills #ClaudeCode</a><br/>Jul 27, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ZHba80GN04A"><img width="140px" src="https://i.ytimg.com/vi/ZHba80GN04A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZHba80GN04A">Odoo 19.4 最大的兩個改動！PDF 引擎換人做、權限系統整個重寫 #Odoo #PaperMuncher #irAccess #Python #ERP</a><br/>Jul 27, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=Ykf6apBwVNQ"><img width="140px" src="https://i.ytimg.com/vi/Ykf6apBwVNQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ykf6apBwVNQ">Claude Code 老手才知道的對話技巧！岔開、派分身、搜歷史 #ClaudeCode #Anthropic #Fork #radio #FocusView</a><br/>Jun 6, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=BfxDAO1M-Vc"><img width="140px" src="https://i.ytimg.com/vi/BfxDAO1M-Vc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BfxDAO1M-Vc">不用再切 Tab！Claude Code Agent View 一個畫面指揮多個 AI #ClaudeCode #AgentView #Anthropic #Parallel #Subagents</a><br/>Jun 1, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=pI-AX98dlvY"><img width="140px" src="https://i.ytimg.com/vi/pI-AX98dlvY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pI-AX98dlvY">11 天寫 75 萬行程式碼！Claude Code Dynamic Workflows 動態工作流完整實測 #Workflows #JavaScript #ultracode #token怪獸</a><br/>May 31, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=G3q-cEtVv8g"><img width="140px" src="https://i.ytimg.com/vi/G3q-cEtVv8g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=G3q-cEtVv8g">後端工程師的新選擇？Zed vs VS Code 完整實測（含踩坑筆記）#Zed #VSCode #Python #IDE #Git</a><br/>May 30, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Zuyzh10D1vI"><img width="140px" src="https://i.ytimg.com/vi/Zuyzh10D1vI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Zuyzh10D1vI">你其實已經在用 Harness！Claude Code 閉環迴圈開發才是重點 + Codex Review #ClaudeCode #Harness #Codex #Anthropic #閉環</a><br/>Apr 17, 2026</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
