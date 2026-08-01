@@ -57,7 +57,7 @@ height="30"/></a>
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=j9wuy120J9c"><img width="140px" src="https://i.ytimg.com/vi/j9wuy120J9c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=j9wuy120J9c">Odoo 19.4 AI 架構全換血！順便讓 Odoo 自己變成 MCP Server #Odoo #MCP #AIAgent #AgentSkills #ClaudeCode</a><br/>Jul 27, 2026</td></tr>
+<td><a href="https://www.youtube.com/watch?v=j9wuy120J9c">Odoo 19.4 AI 架構全換血！順便讓 Odoo 自己變成 MCP Server #Odoo #MCP #AIAgent #AgentSkills #ClaudeCode</a><br/>Aug 1, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZHba80GN04A"><img width="140px" src="https://i.ytimg.com/vi/ZHba80GN04A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZHba80GN04A">Odoo 20 提前預習！saas-19.4 兩大新特性完整實測 #Odoo #ERP #PaperMuncher #irAccess #權限管理</a><br/>Jul 27, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Ykf6apBwVNQ"><img width="140px" src="https://i.ytimg.com/vi/Ykf6apBwVNQ/mqdefault.jpg"></a></td>
