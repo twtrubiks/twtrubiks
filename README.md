@@ -56,7 +56,9 @@ height="30"/></a>
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=pnUIkKwjjns"><img width="140px" src="https://i.ytimg.com/vi/pnUIkKwjjns/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Rcm0LL6nFKg"><img width="140px" src="https://i.ytimg.com/vi/Rcm0LL6nFKg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Rcm0LL6nFKg">Odoo 20 新特性一次看懂：AI 改點數、MCP OAuth、populate #Odoo20 #MCP #ClaudeCode #AI #ERP</a><br/>Sep 27, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=pnUIkKwjjns"><img width="140px" src="https://i.ytimg.com/vi/pnUIkKwjjns/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pnUIkKwjjns">Claude Code 跨 session 傳話、reverse-skill 逆向包 #ClaudeCode #CrossSession #reverseskill #APK #Anthropic</a><br/>Aug 23, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=2EZTm5TVfHA"><img width="140px" src="https://i.ytimg.com/vi/2EZTm5TVfHA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2EZTm5TVfHA">Zed 裡的 Claude Code 其實是 claude -p！ACP 協定完整拆解 #Zed #ClaudeCode #ACP #VSCode #stdio VSCode</a><br/>Aug 11, 2026</td></tr>
@@ -64,8 +66,6 @@ height="30"/></a>
 <td><a href="https://www.youtube.com/watch?v=j9wuy120J9c">Odoo 19.4 AI 架構全換血！順便讓 Odoo 自己變成 MCP Server #Odoo #MCP #AIAgent #AgentSkills #ClaudeCode</a><br/>Aug 1, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZHba80GN04A"><img width="140px" src="https://i.ytimg.com/vi/ZHba80GN04A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZHba80GN04A">Odoo 20 提前預習！saas-19.4 兩大新特性完整實測 #Odoo #ERP #PaperMuncher #irAccess #權限管理</a><br/>Jul 27, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Ykf6apBwVNQ"><img width="140px" src="https://i.ytimg.com/vi/Ykf6apBwVNQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ykf6apBwVNQ">Claude Code 老手才知道的對話技巧！岔開、派分身、搜歷史 #ClaudeCode #Anthropic #Fork #radio #FocusView</a><br/>Jun 6, 2026</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
