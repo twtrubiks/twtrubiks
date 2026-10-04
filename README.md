@@ -56,7 +56,9 @@ height="30"/></a>
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=gRbRlml-pyA"><img width="140px" src="https://i.ytimg.com/vi/gRbRlml-pyA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=EI0PfiV61q8"><img width="140px" src="https://i.ytimg.com/vi/EI0PfiV61q8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EI0PfiV61q8">Odoo20 原生 AI 換成自己的 Claude！不改原生程式碼、不扣 IAP 點數 #Odoo #ClaudeCode #Odoo20 #AIAgent #Anthropic</a><br/>Oct 4, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=gRbRlml-pyA"><img width="140px" src="https://i.ytimg.com/vi/gRbRlml-pyA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gRbRlml-pyA">AI Agent 每步都在燒錢！OpenAdapt 零 token 自動開單，還會回資料庫驗收 #OpenAdapt #AIAgent #RPA #省錢 #Odoo</a><br/>Sep 28, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Rcm0LL6nFKg"><img width="140px" src="https://i.ytimg.com/vi/Rcm0LL6nFKg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Rcm0LL6nFKg">Odoo 20 新特性一次看懂：AI 改點數、MCP OAuth、populate #Odoo20 #MCP #ClaudeCode #AI #ERP</a><br/>Sep 27, 2026</td></tr>
@@ -64,8 +66,6 @@ height="30"/></a>
 <td><a href="https://www.youtube.com/watch?v=pnUIkKwjjns">Claude Code 跨 session 傳話、reverse-skill 逆向包 #ClaudeCode #CrossSession #reverseskill #APK #Anthropic</a><br/>Aug 23, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=2EZTm5TVfHA"><img width="140px" src="https://i.ytimg.com/vi/2EZTm5TVfHA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2EZTm5TVfHA">Zed 裡的 Claude Code 其實是 claude -p！ACP 協定完整拆解 #Zed #ClaudeCode #ACP #VSCode #stdio VSCode</a><br/>Aug 11, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=j9wuy120J9c"><img width="140px" src="https://i.ytimg.com/vi/j9wuy120J9c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=j9wuy120J9c">Odoo 19.4 AI 架構全換血！順便讓 Odoo 自己變成 MCP Server #Odoo #MCP #AIAgent #AgentSkills #ClaudeCode</a><br/>Aug 1, 2026</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
