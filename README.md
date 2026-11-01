@@ -59,7 +59,7 @@ height="30"/></a>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=oVgb9Ww931U"><img width="140px" src="https://i.ytimg.com/vi/oVgb9Ww931U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oVgb9Ww931U">不用裝 Android Studio！Claude Code 雲端 session 開發 Android App 完整實測 #CloudSession #GitHubActions #Kotlin</a><br/>Oct 30, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JA14G9mOP9I"><img width="140px" src="https://i.ytimg.com/vi/JA14G9mOP9I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JA14G9mOP9I">不只寫程式！Claude Code Artifacts、Routines、Cloud Session 實測 #ClaudeCode #Artifacts #Routines #Slack #Cloud</a><br/>Oct 25, 2026</td></tr>
+<td><a href="https://www.youtube.com/watch?v=JA14G9mOP9I">我都這樣用 Claude Code！Fable 5.1 開 high、快取還在就 /compact #ClaudeCode #Fable #compact #Anthropic #心得</a><br/>Oct 25, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=EI0PfiV61q8"><img width="140px" src="https://i.ytimg.com/vi/EI0PfiV61q8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EI0PfiV61q8">Odoo20 原生 AI 換成自己的 Claude！不改原生程式碼、不扣 IAP 點數 #Odoo #ClaudeCode #Odoo20 #AIAgent #Anthropic</a><br/>Oct 4, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gRbRlml-pyA"><img width="140px" src="https://i.ytimg.com/vi/gRbRlml-pyA/mqdefault.jpg"></a></td>
