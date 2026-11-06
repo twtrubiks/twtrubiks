@@ -57,7 +57,7 @@ height="30"/></a>
 <table>
     <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=oVgb9Ww931U"><img width="140px" src="https://i.ytimg.com/vi/oVgb9Ww931U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oVgb9Ww931U">不用裝 Android Studio！Claude Code 雲端 session 開發 Android App 完整實測 #CloudSession #GitHubActions #Kotlin</a><br/>Oct 30, 2026</td></tr>
+<td><a href="https://www.youtube.com/watch?v=oVgb9Ww931U">AI 自己看模擬器錄影修 bug！Claude Code 雲端開發 Android 三個 App 實戰心得 #ClaudeCode #Android #GitHubActions #APK</a><br/>Oct 30, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JA14G9mOP9I"><img width="140px" src="https://i.ytimg.com/vi/JA14G9mOP9I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JA14G9mOP9I">我都這樣用 Claude Code！Fable 5.1 開 high、快取還在就 /compact #ClaudeCode #Fable #compact #Anthropic #心得</a><br/>Oct 25, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=EI0PfiV61q8"><img width="140px" src="https://i.ytimg.com/vi/EI0PfiV61q8/mqdefault.jpg"></a></td>
