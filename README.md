@@ -56,7 +56,9 @@ height="30"/></a>
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=oVgb9Ww931U"><img width="140px" src="https://i.ytimg.com/vi/oVgb9Ww931U/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/HCV9dl1BaUo"><img width="140px" src="https://i.ytimg.com/vi/HCV9dl1BaUo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/HCV9dl1BaUo">QuietPTT：安靜的 PTT Android 客戶端</a><br/>Nov 22, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=oVgb9Ww931U"><img width="140px" src="https://i.ytimg.com/vi/oVgb9Ww931U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oVgb9Ww931U">AI 自己看模擬器錄影修 bug！Claude Code 雲端開發 Android 三個 App 實戰心得 #ClaudeCode #Android #GitHubActions #APK</a><br/>Oct 30, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JA14G9mOP9I"><img width="140px" src="https://i.ytimg.com/vi/JA14G9mOP9I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JA14G9mOP9I">我都這樣用 Claude Code！Fable 5.1 開 high、快取還在就 /compact #ClaudeCode #Fable #compact #Anthropic #心得</a><br/>Oct 25, 2026</td></tr>
@@ -64,8 +66,6 @@ height="30"/></a>
 <td><a href="https://www.youtube.com/watch?v=EI0PfiV61q8">Odoo20 原生 AI 換成自己的 Claude！不改原生程式碼、不扣 IAP 點數 #Odoo #ClaudeCode #Odoo20 #AIAgent #Anthropic</a><br/>Oct 4, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gRbRlml-pyA"><img width="140px" src="https://i.ytimg.com/vi/gRbRlml-pyA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gRbRlml-pyA">AI Agent 每步都在燒錢！OpenAdapt 零 token 自動開單，還會回資料庫驗收 #OpenAdapt #AIAgent #RPA #省錢 #Odoo</a><br/>Sep 28, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Rcm0LL6nFKg"><img width="140px" src="https://i.ytimg.com/vi/Rcm0LL6nFKg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Rcm0LL6nFKg">Odoo 20 新特性一次看懂：AI 改點數、MCP OAuth、populate #Odoo20 #MCP #ClaudeCode #AI #ERP</a><br/>Sep 27, 2026</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
