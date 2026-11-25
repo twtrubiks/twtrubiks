@@ -56,7 +56,9 @@ height="30"/></a>
 
 <table>
     <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/shorts/BztNKhQaBnI"><img width="140px" src="https://i.ytimg.com/vi/BztNKhQaBnI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=KhXxdZYAsc8"><img width="140px" src="https://i.ytimg.com/vi/KhXxdZYAsc8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KhXxdZYAsc8">AI 剪片兩條路！網頁生成 vs 讀逐字稿剪輯 HyperFrames、video-use 原理 #ClaudeCode #HyperFrames #videouse #FFmpeg #AI剪片</a><br/>Nov 25, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/BztNKhQaBnI"><img width="140px" src="https://i.ytimg.com/vi/BztNKhQaBnI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/BztNKhQaBnI">PTT 一個字有兩個顏色？用 Rust + GPUI 一格一格自己畫 #PTT #Rust #GPUI #Zed #Linux</a><br/>Nov 24, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/HCV9dl1BaUo"><img width="140px" src="https://i.ytimg.com/vi/HCV9dl1BaUo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/HCV9dl1BaUo">QuietPTT：安靜的 PTT Android 客戶端</a><br/>Nov 22, 2026</td></tr>
@@ -64,8 +66,6 @@ height="30"/></a>
 <td><a href="https://www.youtube.com/watch?v=oVgb9Ww931U">AI 自己看模擬器錄影修 bug！Claude Code 雲端開發 Android 三個 App 實戰心得 #ClaudeCode #Android #GitHubActions #APK</a><br/>Oct 30, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JA14G9mOP9I"><img width="140px" src="https://i.ytimg.com/vi/JA14G9mOP9I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JA14G9mOP9I">我都這樣用 Claude Code！Fable 5.1 開 high、快取還在就 /compact #ClaudeCode #Fable #compact #Anthropic #心得</a><br/>Oct 25, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=EI0PfiV61q8"><img width="140px" src="https://i.ytimg.com/vi/EI0PfiV61q8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EI0PfiV61q8">Odoo20 原生 AI 換成自己的 Claude！不改原生程式碼、不扣 IAP 點數 #Odoo #ClaudeCode #Odoo20 #AIAgent #Anthropic</a><br/>Oct 4, 2026</td></tr>
 <!-- YOUTUBE:END -->
     </tbody>
 </table>
